@@ -2,9 +2,9 @@
 in this repo you will find almost all links wich where shown on the youtube channel [D!ng](https://www.youtube.com/channel/UClq42foiSgl7sSpLupnugGA) in there [D.O.N.G. videos](https://www.youtube.com/watch?v=lr7dMmkE6es&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o) (Do Online Now Guys).
 
 
-(TITLE: ) What Does One Trillion Dollars Look Like?
+(TITLE: ) What Does One Trillion Dollars Look Like? \n
 
-Free Flashlight (0:19)
+Free Flashlight (0:19) \n
 https://www.freeonlineflashlight.com 
 
 $Trillions (0:30)
