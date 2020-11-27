@@ -2276,8 +2276,8 @@ http://www.whalesynth.com/
 Everyone on One Page (1:59)
 http://www.7billionworld.com/ 
 
-Draw a Square (2:23)
-http://event.catchad.com.tw/drawasquare/ 
+~~Draw a Square (2:23)
+http://event.catchad.com.tw/drawasquare/ ~~
 
 Jumping Cubes (2:38)
 http://animuchan.net/moz_game/ 
