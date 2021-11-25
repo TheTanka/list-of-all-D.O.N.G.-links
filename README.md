@@ -8,31 +8,31 @@ Enjoy
 ****TITLE: [->](https://www.youtube.com/watch?v=lr7dMmkE6es&list=PLL0602iqqyiy6_ude) What Does One Trillion Dollars Look Like?****
 
 Free Flashlight (0:19)
-https://www.freeonlineflashlight.com 
+https://www.freeonlineflashlight.com
 
 $Trillions (0:30)
-https://informationisbeautiful.net/visualizations/trillions-what-is-a-trillion-dollars/ 
+https://informationisbeautiful.net/visualizations/trillions-what-is-a-trillion-dollars/
 
 What Does a Trillion Dollars Look Like (1:00)
-http://www.pagetutor.com/trillion/index.html 
+http://www.pagetutor.com/trillion/index.html
 
 Plume (1:51)
-https://plumegame.com/ 
+https://plumegame.com/
 
 Map Frappe (2:16)
-http://mapfrappe.com/ 
+http://mapfrappe.com/
 
 Geography Quiz (3:03)
-https://geogee.me 
+https://geogee.me
 
 Movie Music Quiz  (3:30)
-https://www.movie-music-quiz.com/  
+https://www.movie-music-quiz.com/
 
 Word synth (4:01)
-https://creatability.withgoogle.com/word-synth/ 
+https://creatability.withgoogle.com/word-synth/
 
 Pass Me (4:25)
-http://osa.studio/passme/ 
+--site no longer exists--
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=wnI1QT_I1l4&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=2) touch my orb.****
@@ -44,31 +44,31 @@ http://www.slightlyinteresting.com/plasmaglobe/plasma.asp
 ****TITLE: [->](https://www.youtube.com/watch?v=RCYeG5slfN0&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=3) help me****
 
 Space is Cool (0:04)
-http://www.spaceis.cool 
+http://www.spaceis.cool
 
 Timeline of Earth (0:40)
-http://timelineofearth.com/ 
+http://timelineofearth.com/
 
 Morse Typing Trainer (1:42)
-https://morse.withgoogle.com/learn/ 
+https://morse.withgoogle.com/learn/
 
 Keyboard (2:26)
-https://creatability.withgoogle.com/keyboard/ 
+https://creatability.withgoogle.com/keyboard/
 
 Language Guesser (2:59)
-https://languageguesser.com/ 
+https://languageguesser.com/
 
 Under the Sun (3:41)
-http://projects.truth-and-beauty.net/under-the-sun/ 
+http://projects.truth-and-beauty.net/under-the-sun/
 
 Lat Long (3:58)
-https://www.latlong.net/Show-Latitude-Longitude.html 
+https://www.latlong.net/Show-Latitude-Longitude.html
 
 Sculpting (4:07)
-https://stephaneginier.com/sculptgl/ 
+https://stephaneginier.com/sculptgl/
 
 Bellwoods.xyz (4:38)
-https://bellwoods.xyz 
+https://bellwoods.xyz
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=EDeH73RXyd8&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=4) Things Change****
@@ -101,7 +101,7 @@ Daylight Savings Time
 http://andywoodruff.com/blog/where-to-hate-daylight-saving-time-and-where-to-love-it/
 
 Evolution of language article.
-http://www.lel.ed.ac.uk/lec/the-%E2%80%9Calien-language%E2%80%9D-experiment/
+--site no longer exists--
 
 Language tree
 http://www.elinguistics.net/Language_Evolutionary_Tree.html
@@ -118,36 +118,36 @@ https://www.oldenglishtranslator.co.uk
 Plate techtonics
 http://davidson16807.github.io/tectonics.js/
 
- 
+
 
 ****TITLE: [->](https://www.youtube.com/watch?v=HTWw0YSHa98&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=5) Do You Know What Logo This Is?****
 
 Budum tsss
-https://drumsound.net 
+https://drumsound.net
 
 Pun Jokes
-http://pun.me/pages/dad-jokes.php 
+http://pun.me/pages/dad-jokes.php
 
 Draw Logo From Memory
-https://neal.fun/logos-from-memory/ 
+https://neal.fun/logos-from-memory/
 
-https://www.boredpanda.com/famous-brand-logos-drawn-from-memory/?utm_source=google&utm_medium=organic&utm_campaign=organic 
+https://www.boredpanda.com/famous-brand-logos-drawn-from-memory/?utm_source=google&utm_medium=organic&utm_campaign=organic
 
-https://www.signs.com/branded-in-memory/ 
+https://www.signs.com/branded-in-memory/
 
 Population Map
-https://pudding.cool/2018/10/city_3d/ 
+https://pudding.cool/2018/10/city_3d/
 
 Notable Women
-https://notablewomen.withgoogle.com/100/bessie-coleman   
+https://notablewomen.withgoogle.com/100/bessie-coleman
 
 Sound Canvas
-https://creatability.withgoogle.com/sound-canvas/ 
+https://creatability.withgoogle.com/sound-canvas/
 
 Plink
-http://plink.in/ 
+http://plink.in/
 
- 
+
 
 ****TITLE: [->](https://www.youtube.com/watch?v=NvwcHDsXuy8&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=6) Oddly Satisfying Websites****
 
@@ -155,23 +155,23 @@ Oddly Satisfying Spa (00:45)
 https://luxuryescapism.com
 
 Oddly Satisfying Subreddit (0:59)
-https://www.reddit.com/r/oddlysatisfying/ 
+https://www.reddit.com/r/oddlysatisfying/
 
 Bubble Wrap (1:06)
-http://www.snapbubbles.com/ 
-https://scratch.mit.edu/projects/64798962/ 
-http://www.virtual-bubblewrap.com/popnow.shtml 
+http://www.snapbubbles.com/
+https://scratch.mit.edu/projects/64798962/
+http://www.virtual-bubblewrap.com/popnow.shtml
 
 Super Slime App (2:02)
-iOS: https://itunes.apple.com/us/app/super-slime-simulator/id1375330146?mt=8 
+iOS: https://itunes.apple.com/us/app/super-slime-simulator/id1375330146?mt=8
 Android: https://play.google.com/store/apps/details?id=com.dramaton.slime&hl=en_US
 
 Kaleidoscope Painter (3:22)
-https://permadi.com/java/spaint/spaint.html 
+https://permadi.com/java/spaint/spaint.html
 
 Traffic Simulation (4:00)
 http://www.traffic-simulation.de/
- 
+
 
 ****TITLE: [->](https://www.youtube.com/watch?v=AFn1emtEVY0&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=7) PHAT BEATZ****
 
@@ -239,7 +239,7 @@ Google Moon (5:28)
 https://www.google.com/moon/
 
 Garbage Truck (5:50)
-http://www.flash-game.net/game/5401/garbage-truck.html
+--site no longer exists--
 
 iDubbbz video
 https://www.youtube.com/watch?v=Hyq1uXzV1VE
@@ -251,22 +251,22 @@ https://www.moregameslike.com/garbage-truck-simulator/
 ****TITLE: [->](https://www.youtube.com/watch?v=SmE6ShKZmHA&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=9) This Is Rabies****
 
 Want To Wait (0:10)
-http://www.wanttowait.com/ 
+http://www.wanttowait.com/
 
 Virus Explorer (0:23)
-https://www.hhmi.org/biointeractive/virus-explorer 
+https://www.hhmi.org/biointeractive/virus-explorer
 
 Overstellar (1:22)
-https://www.overstellar.se/random-exercise/# 
+https://www.overstellar.se/random-exercise/#
 
 Benefits of Exercise (1:34)
-https://www.betterhealth.vic.gov.au/health/healthyliving/physical-activity-its-important 
+https://www.betterhealth.vic.gov.au/health/healthyliving/physical-activity-its-important
 
 History of Philosophy (1:51)
-https://www.denizcemonduygu.com/philo/browse/  
+https://www.denizcemonduygu.com/philo/browse/
 
 Tagstatz (2:51)
-http://tagstatz.com/ 
+--site no longer exists--
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=slK1tPE4Qv4&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=10) How Many Of You Exist?****
@@ -278,51 +278,51 @@ How Many of Me (0:35)
 http://ww2.howmanyofme.com/search/
 
 Move Mirror (1:28)
-https://experiments.withgoogle.com/collection/ai/move-mirror/view/mirror 
+https://experiments.withgoogle.com/collection/ai/move-mirror/view/mirror
 
 Emoji Scavenger Hunt (1:55)
-https://emojiscavengerhunt.withgoogle.com/ 
+https://emojiscavengerhunt.withgoogle.com/
 
 Dangerous Animals (2:11)
-https://allthatsinteresting.com/dangerous-animals 
+https://allthatsinteresting.com/dangerous-animals
 
 Jungle Noise Generator (2:51)
-https://mynoise.net/NoiseMachines/jungleNoiseGenerator.php 
+https://mynoise.net/NoiseMachines/jungleNoiseGenerator.php
 
 How Strong is Your Vocabulary (3:24)
-https://www.merriam-webster.com/word-games/vocabulary-quiz 
+https://www.merriam-webster.com/word-games/vocabulary-quiz
 
 Thank You Generator (4:35)
-https://neal.fun/thank-you/ 
+--site no longer exists--
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=ZqqMPaZ9mLw&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=11) These Islands Don't Exist****
 
 Shybutton (0:16)
-http://shybutton.tk 
+http://shybutton.tk
 
 Phantom Islands (0:31)
-http://andrewpekler.com/phantom-islands/ 
+http://andrewpekler.com/phantom-islands/
 
 Where Does the Day Go?  (1:36)
-https://neal.fun/where-does-the-day-go/ 
+https://neal.fun/where-does-the-day-go/
 
 Haiku Generator (2:32)
-https://www.poem-generator.org.uk/haiku/ 
+https://www.poem-generator.org.uk/haiku/
 
 Semantris (3:00)
-https://research.google.com/semantris/ 
+https://research.google.com/semantris/
 
 Colors Of Motion (4:45)
-https://thecolorsofmotion.com/ 
+https://thecolorsofmotion.com/
 
 Animated Knots (5:38)
-https://www.animatedknots.com/  
+https://www.animatedknots.com/
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=u0uvOcqQa2I&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=12) LENSES****
 
-  
+
 Ray Optics Simulator (0:52)
 https://ricktu288.github.io/ray-optics/simulator/
 
@@ -358,7 +358,7 @@ https://photographylife.com/what-is-aperture-in-photography
 Animal Eyes
 http://iteota.com/experience/the-food-chain-continues/frog
 
-Focal Length 
+Focal Length
 https://www.shutterbug.com/content/check-out-cool-gif-showing-how-lens-focal-length-changes-peoples-faces
 
 Convex and Concave
@@ -383,17 +383,17 @@ How We Got to Next  (endangered languages) (1:33)
 https://interactive.howwegettonext.com/endangeredlanguages/
 
 Map of Accents (3:36)
-https://localingual.com/?ISO=BR 
+https://localingual.com/?ISO=BR
 
 Dialect Map (4:00)
-http://www.businessinsider.com/22-maps-that-show-the-deepest-linguistic-conflicts-in-america-2013-6#for-whatever-reason-its-a-boo-wie-knife-in-texas-and-dc-3 
+http://www.businessinsider.com/22-maps-that-show-the-deepest-linguistic-conflicts-in-america-2013-6#for-whatever-reason-its-a-boo-wie-knife-in-texas-and-dc-3
 
 Dialect Quiz (4:33)
-https://www.nytimes.com/interactive/2014/upshot/dialect-quiz-map.html 
+https://www.nytimes.com/interactive/2014/upshot/dialect-quiz-map.html
 
 Translated pieces in Klingon (5:12)
-http://www.khemorex-klinzhai.de/e/Hol/ 
-http://funtranslations.com/klingon 
+http://www.khemorex-klinzhai.de/e/Hol/
+http://funtranslations.com/klingon
 
 
 
@@ -409,94 +409,94 @@ https://linguistlist.org/ask-ling/accent.cfm
 ****TITLE: [->](https://www.youtube.com/watch?v=vGI68-7OP9A&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=14) SCALE****
 
 Scale of the Universe (0:10)
-http://scaleofuniverse.com/ 
+http://scaleofuniverse.com/
 
 Converting Units (1:22)
 https://www.convertunits.com
 
 World Science Festival (1:29)
-https://www.youtube.com/watch?v=IC3AcItKc3U 
+https://www.youtube.com/watch?v=IC3AcItKc3U
 
 Cell Size and Scale  (2:21)
-http://learn.genetics.utah.edu/content/cells/scale/ 
+http://learn.genetics.utah.edu/content/cells/scale/
 
 Dinosaur Size Comparison (2:47)
-https://www.businessinsider.com/dinosaur-size-comparison-chart-2015-6 
+https://www.businessinsider.com/dinosaur-size-comparison-chart-2015-6
 
 Blue Whale (3:33)
-http://www.wdcs.co.uk/media/flash/whalebanner/content_pub_en.html 
+http://www.wdcs.co.uk/media/flash/whalebanner/content_pub_en.html
 
 The true size of (4:29)
 https://thetruesize.com/
 
 Planet Sizes (5:20)
-https://www.timeanddate.com/astronomy/planets/size 
+https://www.timeanddate.com/astronomy/planets/size
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=9ai0AKIkKU0&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=15) Make Your Own Illusion****
 
 Impossible Objects (0:09)
-https://www.youtube.com/watch?v=SgKE8ZJ7OjM&t=12s 
+https://www.youtube.com/watch?v=SgKE8ZJ7OjM&t=12s
 
 Make Your Own Metamorphosis (0:29)
 https://escher.ntr.nl/en/mmm
 
 Line Illusion (1:07)
-http://kurino.xii.jp/Gallery/Computer/TrickArt/ 
+http://kurino.xii.jp/Gallery/Computer/TrickArt/
 
 Konsumer.js (1:28)
-http://konsumer.js.org/animillusion/ 
+http://konsumer.js.org/animillusion/
 
 Make Your Own Stereogram (3:15)
-http://www.easystereogrambuilder.com/3d-stereogram-maker.aspx 
+http://www.easystereogrambuilder.com/3d-stereogram-maker.aspx
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=3n8cX1UthC8&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=16) The Old Internet****
 
 90’s phrases (0:46)
-http://www.inthe90s.com/generated/terms.shtml 
+http://www.inthe90s.com/generated/terms.shtml
 
 First Web Page (1:09)
-http://line-mode.cern.ch/www/hypertext/WWW/TheProject.html 
+http://line-mode.cern.ch/www/hypertext/WWW/TheProject.html
 
 Dial-up Internet (1:31)
-http://56k-emulator.co.uk 
+http://56k-emulator.co.uk
 
 Web Crawler (2:14)
 https://www.webcrawler.com
 
 Geocity Simulator (2:20)
 http://www.wonder-tonic.com/geocitiesizer/
- 
+
 Wayback Machine (2:36)
-https://web.archive.org  
+https://web.archive.org
 
 First Youtube Video (3:22)
-https://www.youtube.com/watch?v=jNQXAC9IVRw 
+https://www.youtube.com/watch?v=jNQXAC9IVRw
 
 Dr. Fun (3:51)
-http://www.ibiblio.org/Dave/archive.html
+--site no longer exists--
 
 Space Jam (4:06)
-https://www.warnerbros.com/archive/spacejam/movie/jam.html  
+https://www.warnerbros.com/archive/spacejam/movie/jam.html
 
 Zorotl (4:30)
-http://zorotl.com/ 
+http://zorotl.com/
 
 Fogcam (5:26)
-http://www.fogcam.org/ 
+http://www.fogcam.org/
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=XUV5fPDJGKc&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=17) How Secure Is Your Password?****
 
 How Secure is My Password (0:54)
-https://howsecureismypassword.net/ 
+https://howsecureismypassword.net/
 
 Hash Generator (2:20)
 https://passwordsgenerator.net/sha1-hash-generator/
 
 Computerphile (2:31)
-https://www.youtube.com/watch?v=DMtFhACPnTY&t=381s 
+https://www.youtube.com/watch?v=DMtFhACPnTY&t=381s
 
 Crack Station (2:59)
 https://crackstation.net/
@@ -505,25 +505,25 @@ Salting (4:03)
 https://saltthepass.com/
 
 Diceware Passphrase (4:40)
-http://world.std.com/~reinhold/diceware.html 
+http://world.std.com/~reinhold/diceware.html
 
 Dice Simulator (4:56)
-https://www.random.org/dice/?num=5 
+https://www.random.org/dice/?num=5
 
 Brute Force Simulator (5:15)
-https://codepen.io/marco_fugaro/pen/XbxNVx 
+https://codepen.io/marco_fugaro/pen/XbxNVx
 
 Betterbuys (5:31)
-https://www.betterbuys.com/estimating-password-cracking-times/ 
+https://www.betterbuys.com/estimating-password-cracking-times/
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=E5l3Cabynmc&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=18) Do I Excite Your Adrenal Glands?****
 
 Epinephrine Molecule (0:25)
-https://pubchem.ncbi.nlm.nih.gov/compound/5816#section=3D-Conformer 
+https://pubchem.ncbi.nlm.nih.gov/compound/5816#section=3D-Conformer
 
 Endocrine system (0:30)
-https://www.hormone.org/hormones-and-health/the-endocrine-system 
+https://www.hormone.org/hormones-and-health/the-endocrine-system
 
 VR Youtube Video
 https://www.youtube.com/watch?v=S5XXsRuMPIU (2:03)
@@ -531,51 +531,51 @@ https://www.youtube.com/watch?v=AX4hWfyHr5g (2:10)
 https://www.youtube.com/watch?v=a54H2V06dqw&t=204s (2:17)
 
 Forces in Skydiving (2:47)
-http://www.waowen.screaming.net/revision/force&motion/skydiver.htm 
+http://www.waowen.screaming.net/revision/force&motion/skydiver.htm
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=45R7XQ8q-8c&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=19) RUN****
 
 In This Amount of time Usain bolt could have run…
-https://www.theguardian.com/sport/ng-interactive/2017/aug/02/usain-bolt-fastest-man-ever-lived 
+https://www.theguardian.com/sport/ng-interactive/2017/aug/02/usain-bolt-fastest-man-ever-lived
 
 Breaking the Record
-https://www.nytimes.com/interactive/2016/08/15/sports/olympics/usain-bolt-mens-100-meters-final.html 
+https://www.nytimes.com/interactive/2016/08/15/sports/olympics/usain-bolt-mens-100-meters-final.html
 
 Runners Behind Usain Bolt over time
-http://archive.nytimes.com/www.nytimes.com/interactive/2012/08/05/sports/olympics/the-100-meter-dash-one-race-every-medalist-ever.html? 
+http://archive.nytimes.com/www.nytimes.com/interactive/2012/08/05/sports/olympics/the-100-meter-dash-one-race-every-medalist-ever.html?
 
 How Humans Pale in Comparison to Animals in Sports
-https://www.atlasobscura.com/articles/a-graphic-comparision-of-how-the-worlds-greatest-human-athletes-fare-against-average-animals 
+https://www.atlasobscura.com/articles/a-graphic-comparision-of-how-the-worlds-greatest-human-athletes-fare-against-average-animals
 
 Animal Speed (how fast they’d be if they were your size)
-http://www.speedofanimals.com/  
- 
+http://www.speedofanimals.com/
+
 Human Anatomy
-https://human.biodigital.com/index.html 
+https://human.biodigital.com/index.html
 
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=KDXVFjJ61OY&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=20) Could You Survive A Nuclear Blast?****
 
 Vsauce 3 Videos
-https://www.youtube.com/watch?v=YvGlBFjxvgY 
-https://www.youtube.com/watch?v=CJLMCT1aXRM 
+https://www.youtube.com/watch?v=YvGlBFjxvgY
+https://www.youtube.com/watch?v=CJLMCT1aXRM
 
 Nuke Map (0:42)
-http://nuclearsecrecy.com/nukemap/ 
+http://nuclearsecrecy.com/nukemap/
 
 Outrider (0:48)
 https://outrider.org/nuclear-weapons/interactive/bomb-blast
 
 Nuclear Fission Simulator (3:37)
-http://blog.nuclearsecrecy.com/misc/criticality/ 
+http://blog.nuclearsecrecy.com/misc/criticality/
 
 Nuclear Bomb Craters (4:41)
-https://academo.org/demos/nuclear-craters/ 
+https://academo.org/demos/nuclear-craters/
 
 Crater Impact (5:21)
-http://simulator.down2earth.eu/input.html?lang=en&planet=Earth 
+http://simulator.down2earth.eu/input.html?lang=en&planet=Earth
 
 Impact Crater Map (6:05)
 https://en.wikipedia.org/wiki/List_of_impact_craters_on_Earth
@@ -608,7 +608,7 @@ Online tone generator
 http://onlinetonegenerator.com/dtmf.html
 
 Calm Tones
-https://www.tones.fm/tones/calm  
+https://www.tones.fm/tones/calm
 
 Hang Drum Virtual Player
 https://www.pantheonsteel.com/virtual-player/
@@ -621,73 +621,73 @@ https://www.youtube.com/watch?v=em-R0f5KhS8
 ****TITLE: [->](https://www.youtube.com/watch?v=Vc0WJ6wFhjE&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=22) Stargazing With Jake!****
 
 Spot The Difference (0:20)
-http://www.spotthedifference.com/photogame.asp 
+http://www.spotthedifference.com/photogame.asp
 
 Stargazing map (0:38)
-http://earthsky.org/stargazing 
+http://earthsky.org/stargazing
 
 Online Planetarium (0:56)
-https://in-the-sky.org/skymap.php 
+https://in-the-sky.org/skymap.php
 
 Globe at Night (1:46)
-https://www.globeatnight.org/map/?2013 
+https://www.globeatnight.org/map/?2013
 
 Infographic (2:00)
 http://www.darksky.org/light-pollution/
 
 Skyglow (2:33)
-https://www.hillarys.co.uk/skyglow/ 
+https://www.hillarys.co.uk/skyglow/
 
 Bortle Scale (3:12)
-https://academo.org/demos/bortle-scale/ 
+https://academo.org/demos/bortle-scale/
 
 Light Pollution Key (3:33)
-http://www.cleardarksky.com/lp/OclaFLlp.html?choose_disp=latlong&latlong=N29.169%2C++W82.075&newwindow=1 
+http://www.cleardarksky.com/lp/OclaFLlp.html?choose_disp=latlong&latlong=N29.169%2C++W82.075&newwindow=1
 
 Light Pollution Maps (3:34)
-http://djlorenz.github.io/astronomy/lp2006/   
+http://djlorenz.github.io/astronomy/lp2006/
 
 Interactive Lighting Studio (3:42)
-http://www.zvork.fr/vls/ 
+http://www.zvork.fr/vls/
 
 Art Palette (4:20)
-https://artsexperiments.withgoogle.com/artpalette/ 
+https://artsexperiments.withgoogle.com/artpalette/
 
 Rave.dj (4:51)
-https://rave.dj/ 
+https://rave.dj/
 
 Draw An Island (5:11)
-http://neal.fun/draw-your-island/ 
+http://neal.fun/draw-your-island/
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=ebkxy8UpqeY&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=23) Interactive Cognition Map****
 
 Dad Jokes (0:12)
-https://tellmedadjokes.com/ 
+https://tellmedadjokes.com/
 
 Genes To Cognition (0:26)
-http://www.g2conline.org/ 
+http://www.g2conline.org/
 
 Virtual Neuron (1:20)
-http://brainu.org/lesson/virtual-neurons 
+http://brainu.org/lesson/virtual-neurons
 
 Inner Animal (2:08)
-http://media.hhmi.org/biointeractive/click/explore-your-inner-animals/?_ga=2.177473253.1301542994.1518480581-699706204.1518480581  
+http://media.hhmi.org/biointeractive/click/explore-your-inner-animals/?_ga=2.177473253.1301542994.1518480581-699706204.1518480581
 
 Audio Visualizer (2:50)
-https://avseoul.net/particleEqualizer/ 
+https://avseoul.net/particleEqualizer/
 
 Life Checklist (3:06)
-http://neal.fun/life-checklist/ 
+http://neal.fun/life-checklist/
 
 Pixel Chart (3:25)
-https://anvaka.github.io/pixchart/?d=4&ignore=&link=https%3A%2F%2Fi.imgur.com%2FsSfofU1.jpg 
+https://anvaka.github.io/pixchart/?d=4&ignore=&link=https%3A%2F%2Fi.imgur.com%2FsSfofU1.jpg
 
 Shape Mania (3:52)
-http://shapesmania.com/stars 
-  
+http://shapesmania.com/stars
+
 Internet Slang (4:10)
-https://lingojam.com/InternetSlangTranslator2-0 
+https://lingojam.com/InternetSlangTranslator2-0
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=rFPySEM6rNE&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=24) Markov Chains****
@@ -725,7 +725,7 @@ https://www.youtube.com/watch?v=qXXZLoq2zFc
 
 Angelina Game
 http://www.gamesbyangelina.org/games/
-http://www.gamesbyangelina.org/whatis/ 
+http://www.gamesbyangelina.org/whatis/
 
 More Info On Angelina
 https://www.youtube.com/watch?v=sz0hn3FXTwc
@@ -733,57 +733,57 @@ https://www.youtube.com/watch?v=sz0hn3FXTwc
 Beneath Apple Manor
 https://archive.org/details/msdos_Beneath_Apple_Manor_1978
 
- 
+
 
 ****TITLE: [->](https://www.youtube.com/watch?v=qFUd6p_9Rdg&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=25) Disaster Simulators****
 
 Disaster Preparer (0:25)
-http://disasterpreparer.com/websites/ 
+http://disasterpreparer.com/websites/
 
 Disease Lab (0:40)
-https://www.learner.org/courses/envsci/interactives/disease/disease.html
+--site no longer exists--
 
 Create-a-cane (2:14)
 https://www.nhc.noaa.gov/outreach/games/canelab.htm
 
 How Hurricanes Form (2:18)
-https://scijinks.gov/hurricane/ 
+https://scijinks.gov/hurricane/
 
 Experience the Formation of a Tornado (3:33)
-https://weather.com/science/weather-explainers/news/experience-formation-tornado 
+https://weather.com/science/weather-explainers/news/experience-formation-tornado
 
 Imagine the Population of Tomorrow (4:33)
-https://www.ined.fr/en/everything_about_population/population-games/tomorrow-population/ 
- 
+https://www.ined.fr/en/everything_about_population/population-games/tomorrow-population/
+
 
 ****TITLE: [->](https://www.youtube.com/watch?v=X2wq-sXtACI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=26) How Fast Are You Moving?****
 
 Please Touch Me (0:19)
-http://www.pleasetouchme.com/ 
+http://www.pleasetouchme.com/
 
 How Fast Are You Moving? (0:34)
-http://neal.fun/speed/ 
+http://neal.fun/speed/
 
 Channel Surfer (1:08)
-http://www.channelsurfer.club/#newVideoForm 
+http://www.channelsurfer.club/#newVideoForm
 
 Shapes Mania (1:19)
-http://shapesmania.com/circles 
+http://shapesmania.com/circles
 
 Poison Pill ID (1:44)
-https://pill-id.webpoisoncontrol.org/#/tab-shape 
+https://pill-id.webpoisoncontrol.org/#/tab-shape
 
 City Data (2:05)
-http://www.city-data.com/ 
+http://www.city-data.com/
 
 Everything About There (2:29)
-https://everythingabouthere.com/
+--site no longer exists--
 
 Looking At Something (3:02)
-http://www.lookingatsomething.com/ 
+http://www.lookingatsomething.com/
 
 CubeOut (3:27)
-http://alteredqualia.com/cubeout/  
+http://alteredqualia.com/cubeout/
 
 Levers 3:42)
 http://vectorpark.com/levers/
@@ -825,34 +825,34 @@ https://www.openprocessing.org/sketch/453716
 ****TITLE: [->](https://www.youtube.com/watch?v=p6tJp_RiYug&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=28) Live Internet Statistics****
 
 Show More (0:20)
-http://www.showmore.ch/ 
+http://www.showmore.ch/
 
 Internet Live Stats (0:32)
-http://www.internetlivestats.com/ 
+http://www.internetlivestats.com/
 
 Twin Finder (1:02)
-https://www.twinfinders.com/ 
+https://www.twinfinders.com/
 
 How Many Days Have I Lived (1:23)
-http://www.howmanydayshaveilived.com/ 
+--site no longer exists--
 
 Mystery Animal (1:39)
 https://mysteryanimal.withgoogle.com/
 
 XYZ Game (2:09)
-http://zty.pe 
+http://zty.pe
 
 Salvage (2:28)
-https://e1sif.itch.io/salvage 
+https://e1sif.itch.io/salvage
 
 Nonogram (2:47)
-https://nonogram.frvr.com/ 
+https://nonogram.frvr.com/
 
 Random Dog (3:08)
 https://random.dog/
 
 Loop A Song (3:19)
-http://loopasong.com/ 
+http://loopasong.com/
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=RyRKKkls3I8&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=29) Can You Draw A Perfect Circle?****
@@ -861,28 +861,28 @@ Codereddit (0:34)
 http://codereddit.net/#/?_k=w8appj
 
 Perfect Circle (0:53)
-http://vladgotlib.com/circular/ 
+http://vladgotlib.com/circular/
 
 Alphabet Passport (1:38)
-http://alphabetpassport.com/populationarea.php 
+http://alphabetpassport.com/populationarea.php
 
 Slightly Annoying Traffic (1:53)
-https://jorbits.itch.io/traffic 
+https://jorbits.itch.io/traffic
 
 Cardinal Run (2:04)
-https://labrat.mobi/games/cardinal_run/ 
+https://labrat.mobi/games/cardinal_run/
 
 Don’t Pop the Balloon (2:13)
-https://www.openprocessing.org/sketch/491198 
+https://www.openprocessing.org/sketch/491198
 
 Creepy Face (2:25)
-http://alteredqualia.com/xg/examples/deferred_skin.html 
+http://alteredqualia.com/xg/examples/deferred_skin.html
 
 Based on a True Story (2:38)
-https://informationisbeautiful.net/visualizations/based-on-a-true-true-story/ 
+https://informationisbeautiful.net/visualizations/based-on-a-true-true-story/
 
 What Bowie Did At Your Age (2:58)
-http://supbowie.com 
+http://supbowie.com
 
 Hex Code Clock (3:24)
 http://www.jacopocolo.com/hexclock/
@@ -894,7 +894,7 @@ Idiot Proof (0:19)
 http://www.idiotproofwebsite.com
 
 Moon Photobombing Earth (0:27)
-https://www.youtube.com/watch?v=_7pZAuHwz0En  
+https://www.youtube.com/watch?v=_7pZAuHwz0En
 
 Sky mapper (0:52)
 http://skymapper.anu.edu.au/sky-viewer/
@@ -903,22 +903,22 @@ Message to 2028 (1:28)
 --site no longer exists--
 
 Funky Road Trip (1:54)
-https://makemydrive.fun/ 
+--site no longer exists--
 
 Next Friday the 13 (2:19)
-http://nextfriday13.com 
+http://nextfriday13.com
 
 VoxSculpt (2:34)
 https://joshshadik.github.io/voxsculpt/src/
 
 Mythconceptions (2:58)
-https://informationisbeautiful.net/visualizations/common-mythconceptions/ 
+https://informationisbeautiful.net/visualizations/common-mythconceptions/
 
 Funky Music (3:28)
-https://mixlab.withgoogle.com/jam 
+https://mixlab.withgoogle.com/jam
 
 Punnet Square Basketball (3:50)
-http://sciencereviewgames.com/srg/games/hs.php?id=136  
+http://sciencereviewgames.com/srg/games/hs.php?id=136
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=pGl_bm4FRnc&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=31) How Far Away Is Andromeda?****
@@ -927,13 +927,13 @@ How Far Away is Andromeda (0:44)
 https://howfarawayisandromeda.neocities.org
 
 What Will We Miss (1:25)
-https://www.youtube.com/watch?v=7uiv6tKtoKg 
+https://www.youtube.com/watch?v=7uiv6tKtoKg
 
 Birthday Star (1:33)
-http://freeant.net/birthdaystar/ 
+http://freeant.net/birthdaystar/
 
 Playback (1:35)
-https://www.playback.fm/birthday-song 
+https://www.playback.fm/birthday-song
 
 Click Click Click (1:41)
 https://clickclickclick.click/#eb35964c5fe445133ecef6635b3b2321
@@ -945,10 +945,10 @@ A Platformer for Ants (2:19)
 https://www.newgrounds.com/portal/view/703327
 
 Cellular Tones (2:32)
-https://civim.org/experiment/eb2/
+--site no longer exists--
 
 Passive Aggressive Password (2:48)
-http://www.trypap.com/ 
+http://www.trypap.com/
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=mcEpW5LepwM&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=32) Daily Routines Of Famous Artists!****
@@ -987,61 +987,61 @@ https://www.newyearsmusicbox.com
 http://countonemillion.com
 
 ISS Finder (0:40)
-http://transit-finder.com 
+http://transit-finder.com
 
 Smarter Every Day (0:54)
-https://www.youtube.com/watch?v=lepQoU4oek4 
+https://www.youtube.com/watch?v=lepQoU4oek4
 
 Silent Gif (1:25)
-http://www.bbc.com/news/science-environment-42237092 
+http://www.bbc.com/news/science-environment-42237092
 
 Macroinvertebrates (2:34)
-http://www.macroinvertebrates.org/#/ 
+http://www.macroinvertebrates.org/#/
 
 One Zoom (2:53)
-http://www.onezoom.org/life.html/@Euryarchaeota=635958?vis=spiral#x1195,y237,w0.4871 
+http://www.onezoom.org/life.html/@Euryarchaeota=635958?vis=spiral#x1195,y237,w0.4871
 
 Break the Bank (3:14)
 http://bizkids.com/games/break-the-bank/?src=reddit
 
 Wild Pigs (3:40)
-http://wildpiginfo.msstate.edu/history-wild-pigs.html 
+http://wildpiginfo.msstate.edu/history-wild-pigs.html
 
 Youtube Geo Finder (3:49)
-https://mattwright324.github.io/youtube-geofind/location 
+https://mattwright324.github.io/youtube-geofind/location
 
 Scan thing (4:03)
 https://jeonghopark.github.io/scanseqjs/
 
 Progress (4:25)
-http://neal.fun/progress/ 
+http://neal.fun/progress/
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=87jGxdvDlfI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=34) DONGing With My Dad!****
 
 Cats in Sinks (0:08)
-http://www.catsinsinks.com/ 
+http://www.catsinsinks.com/
 
 Longest List of W’s (0:29)
-https://sites.google.com/nisdtx.org/the-w-site 
+https://sites.google.com/nisdtx.org/the-w-site
 
 Money Quiz (0:50)
-https://event.larepenger.no/en/en/ 
+--site no longer exists--
 
 Geometrize (1:18)
-http://www.samcodes.co.uk/project/geometrize-haxe-web/ 
+http://www.samcodes.co.uk/project/geometrize-haxe-web/
 
 Globe Genie (1:41)
-http://www.globegenie.com/ 
+http://www.globegenie.com/
 
 Arpeggios (2:05)
-https://musiclab.chromeexperiments.com/Arpeggios 
+https://musiclab.chromeexperiments.com/Arpeggios
 
 Shooter Game (2:36)
-https://www.openprocessing.org/sketch/470603 
+https://www.openprocessing.org/sketch/470603
 
 Find the Pug (2:58)
-http://www.cbc.ca/kidscbc2/content/games/pug/index.html 
+http://www.cbc.ca/kidscbc2/content/games/pug/index.html
 
 Morty's Face (3:23)
 http://www.adultswim.com/etcetera/elastic-man/
@@ -1066,10 +1066,10 @@ Bagel (2:39)
 http://www.georgehart.com/bagel/bagel.html
 
 Stranger Things (3:08)
-http://evenstranger.pw/ 
+http://evenstranger.pw/
 
 Stroop Test (4:46)
-http://s3.mirror.co.uk/click-the-colour-and-not-the-word/index.html 
+http://s3.mirror.co.uk/click-the-colour-and-not-the-word/index.html
 
 General Relativity (7:27)
 http://spark.sciencemag.org/generalrelativity/
@@ -1081,365 +1081,365 @@ https://phet.colorado.edu/sims/html/pendulum-lab/latest/pendulum-lab_en.html
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=38) Do You Have Enough Patience?****
 
 High Five Bros (0:08)
-https://highfivebros.com/ 
+--site no longer exists--
 
 How Patient Are You?  (0:52)
-http://www.kongregate.com/games/absolutel/how-patient-are-you 
+http://www.kongregate.com/games/absolutel/how-patient-are-you
 
 Virtual Magician (1:13)
-http://thevirtualmagician.com/ 
+--site no longer exists--
 
 Paper Clips (1:50)
-http://www.decisionproblem.com/paperclips/index2.html 
+http://www.decisionproblem.com/paperclips/index2.html
 
 Spend Bill Gates’ Money (2:21)
 http://neal.fun/spend/
 
 Visual Quiz (3:05)
-https://unpigeon.me/ 
+https://unpigeon.me/
 
 Strobe Illusion (3:20)
-https://strobe.cool 
+https://strobe.cool
 
 Rabbip (3:41)
-http://flashbynight.com/rabbip/ 
+http://flashbynight.com/rabbip/
 
 Cinesift (4:02)
-https://cinesift.com/ 
+--site no longer exists--
 
 Scenic Ride (4:22)
-https://alexanderperrin.com.au/paper/shorttrip/ 
+https://alexanderperrin.com.au/paper/shorttrip/
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=39) Wanna Play The Knife Game?****
 
 Longest Prime Number (0:14)
-http://lcn2.github.io/mersenne-english-name/m74207281/prime-c.html  
+http://lcn2.github.io/mersenne-english-name/m74207281/prime-c.html
 
 Animal Heart Beats (0:33)
-http://www.everysecond.io/animal-heartbeats  
+http://www.everysecond.io/animal-heartbeats
 
 Knife Game (0:54)
-https://knifegame.hellohikimori.com/home 
+https://knifegame.hellohikimori.com/home
 
 Degrees of Separation (1:30)
-https://artsexperiments.withgoogle.com/xdegrees/7QGw78E_gKuulg/UwGngNulVBkHAw 
+https://artsexperiments.withgoogle.com/xdegrees/7QGw78E_gKuulg/UwGngNulVBkHAw
 
 Phancer (1:58)
 http://phancer.com/
 
 One Time Photo (2:24)
-https://one-time.nl/  
+https://one-time.nl/
 
 Big Tower Little Square (2:44)
-https://evilobjective.itch.io/bigtowertinysquarefree  
+https://evilobjective.itch.io/bigtowertinysquarefree
 
 Access Mars (3:18)
 https://accessmars.withgoogle.com/
 
 Seasonal Food Guide (3:41)
-https://www.seasonalfoodguide.org/asparagus/california 
+https://www.seasonalfoodguide.org/asparagus/california
 
 Pull The Fire Alarm (4:09)
-https://pull-the-fire-alarm.com/ 
+--site no longer exists--
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=40) Has This Man Entered Your Dreams?****
 
 One Motion (0:15)
-http://www.onemotion.com/flash/spider/ 
+http://www.onemotion.com/flash/spider/
 
 This Man (0:28)
-http://www.thisman.org/portraits/ 
+--site no longer exists--
 
 Ghost Study (1:15)
-http://ghoststudy.com/ 
+http://ghoststudy.com/
 
 Holophonic Sound (1:43)
-https://www.youtube.com/watch?v=1vh9y1NewZk 
-https://www.youtube.com/watch?v=MytAOmbnLpg 
-https://www.youtube.com/watch?v=RUbhP0Lkw3Y 
+https://www.youtube.com/watch?v=1vh9y1NewZk
+https://www.youtube.com/watch?v=MytAOmbnLpg
+https://www.youtube.com/watch?v=RUbhP0Lkw3Y
 
 World Births and Deaths (2:17)
 http://worldbirthsanddeaths.com/
 
 Hashima (2:39)
-http://www.hashima-island.co.uk/# 
+http://www.hashima-island.co.uk/#
 
 Wiblr (3:21)
-http://lawriecape.co.uk/wiblr/ 
+http://lawriecape.co.uk/wiblr/
 
 Plane Crash Info (3:37)
 http://planecrashinfo.com/lastwords.htm
 
 Island of Dolls (3:57)
-https://www.google.com/maps/@19.2727969,-99.0879907,2a,18.6y,302.29h,89.49t/data=!3m6!1e1!3m4!1sAJnSjTssk_eWazP3hYqSNw!2e0!7i13312!8i6656 
+https://www.google.com/maps/@19.2727969,-99.0879907,2a,18.6y,302.29h,89.49t/data=!3m6!1e1!3m4!1sAJnSjTssk_eWazP3hYqSNw!2e0!7i13312!8i6656
 
 Pumpkin Gutter (4:11)
-http://pumpkingutter.com/pumpkinblog/ 
+http://pumpkingutter.com/pumpkinblog/
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=41) The Internet Has A Cat.****
 
 Hustling Sunlight (0:08)
-http://www.hustlingsunlight.xyz/ 
+http://www.hustlingsunlight.xyz/
 
 Creepy Face (0:42)
-http://www.alterfin.dds.nl/dominique/index.html 
+http://www.alterfin.dds.nl/dominique/index.html
 
 Purrli (0:57)
-https://purrli.com/ 
+https://purrli.com/
 
 Curry Finder (1:26)
-https://www.just-eat.co.uk/explore/curry/ 
+https://www.just-eat.co.uk/explore/curry/
 
 Favorite Letter (1:51)
-http://neilcic.com/letter/# 
+http://neilcic.com/letter/#
 Recommended on Twitter by: @TheSquidRuler
 
 Eat The Dots (2:10)
-http://www.beard-design.com/eatthedots/ 
+http://www.beard-design.com/eatthedots/
 
 Hexxxagon (2:32)
-https://hexxagon.com/ 
+https://hexxagon.com/
 
 Wobbulator (3:05)
-http://webaudio.prototyping.bbc.co.uk/wobbulator/ 
+http://webaudio.prototyping.bbc.co.uk/wobbulator/
 
 Music Visualization (3:24)
-https://soniaboller.github.io/geometric-tuneage/ 
+https://soniaboller.github.io/geometric-tuneage/
 
 Soft Buddy (3:39)
-http://www.heysnapshere.com/apps/softbuddy/index.html  
+http://www.heysnapshere.com/apps/softbuddy/index.html
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=42) Lightbulbs, Multiplication, and More!****
 
 Pickle Cat (0:08)
-http://dn.ht/picklecat/ 
+http://dn.ht/picklecat/
 
 List of Entertainers Who Died During a Performance (0:36)
-https://en.wikipedia.org/wiki/List_of_entertainers_who_died_during_a_performance 
- 
+https://en.wikipedia.org/wiki/List_of_entertainers_who_died_during_a_performance
+
 Modular Multiplication Around a Circle (1:08)
-https://dev.nektro.net/projects/circular_multiplication/#10x8 
+https://dev.nektro.net/projects/circular_multiplication/#10x8
 
 Slider Version (2:29)
-https://math-magic.herokuapp.com/ 
+https://math-magic.herokuapp.com/
 
 3D RGB Scatterplot (3:30)
-https://imgur.com/a/aRBd1 
+https://imgur.com/a/aRBd1
 
 Image Colors (4:15)
-https://franciscouzo.github.io/image_colors/ 
+https://franciscouzo.github.io/image_colors/
 
 What’s That Bulb (6:08)
-http://www.whatsthatbulb.com/ 
+http://www.whatsthatbulb.com/
 
 Wide-angle NavCam 1 (7:21)
-https://i.imgur.com/gq7MvVn.png 
+https://i.imgur.com/gq7MvVn.png
 
 Migrant Mother (7:54)
-https://upload.wikimedia.org/wikipedia/commons/5/54/Lange-MigrantMother02.jpg 
+https://upload.wikimedia.org/wikipedia/commons/5/54/Lange-MigrantMother02.jpg
 http://www.loc.gov/pictures/resource/ppmsca.23845/
 
 Fonetix (9:21)
-http://www.flashbynight.com/fonetix/ 
+http://www.flashbynight.com/fonetix/
 
 How To Waste Time (11:32)
-http://www.how-to-waste-your-time.com/ 
+http://www.how-to-waste-your-time.com/
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=43) How Big Is YOUR Potato?****
 
 Yeah Lemons (0:07)
-https://yeahlemons.com/ 
+https://yeahlemons.com/
 
 HowBigIsMyPotato (0:24)
-http://www.howbigismypotato.com/  
+http://www.howbigismypotato.com/
 
 Histography (0:41)
-https://histography.io/ 
+https://histography.io/
 
 Country Quiz (1:09)
-https://countryquiz.net/ 
+https://countryquiz.net/
 
 Song Exploder (1:38)
-https://experiments.withgoogle.com/webvr/inside-music/view/ 
+https://experiments.withgoogle.com/webvr/inside-music/view/
 
 Button Sandbox (1:57)
-https://professor-l.github.io/button-sandbox/ 
+https://professor-l.github.io/button-sandbox/
 
 Dotowheel (2:20)
-http://dotowheel.com/ 
+http://dotowheel.com/
 
 Shiritori (2:37)
-https://shiritorigame.com/?replay=ai-0 
+https://shiritorigame.com/?replay=ai-0
 
 Oscillator (2:53)
-https://musiclab.chromeexperiments.com/Oscillators 
+https://musiclab.chromeexperiments.com/Oscillators
 
 Full Size Instagram (3:07)
-http://gramfull.com/ 
+http://gramfull.com/
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=44) Do You Work Well With Others?****
 
 Corndogoncorndog (0:05)
-http://corndogoncorndog.com/ 
+http://corndogoncorndog.com/
 
 Letters (0:21)
 https://rebane2001.com/letters
 
 Binary It’s Digitalicious (0:40)
-https://nickciske.com/tools/binary.php 
+https://nickciske.com/tools/binary.php
 
 Binary Table (0:51)
-http://www.rapidtables.com/code/text/ascii-table.htm 
+http://www.rapidtables.com/code/text/ascii-table.htm
 
 Wake Up (1:10)
-http://wakeup.isadoradigitalagency.com/ 
+http://wakeup.isadoradigitalagency.com/
 
 Noni (1:34)
-https://noni.cmiscm.com/ 
+https://noni.cmiscm.com/
 
 Multiplayer Piano (1:57)
-http://www.multiplayerpiano.com/http://www.multiplayerpiano.com/  
+http://www.multiplayerpiano.com/http://www.multiplayerpiano.com/
 
 Digital Guitar (2:15)
-http://www.apronus.com/music/onlineguitar.htm 
+http://www.apronus.com/music/onlineguitar.htm
 
 Flootify (2:31)
-http://floot.io/recorder/view/2y7CectHQepXuf2ja9pc 
+--site no longer exists--
 
 Smarty Trousers (2:56)
-http://smartytrousers.com/ 
+http://smartytrousers.com/
 
 Easy Foody (3:11)
-https://easyfoody.com/
+--site no longer exists--
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=45) Go Globe Yourself!****
 
 Would You Pay a Dollar? (0:01)
-https://www.howmanypeoplepaidadollartoseehowmanypeoplepaidadollar.com/ 
+--site no longer exists--
 
 Map to Globe (0:41)
-https://www.maptoglobe.com/# 
+--site no longer exists--
 
 Hogwarts (1:05)
-https://my.pottermore.com/hogwarts/ 
+https://my.pottermore.com/hogwarts/
 
 GeoSound (1:24)
-https://yanlinma.com/GeoSound2.github.io/ 
+https://yanlinma.com/GeoSound2.github.io/
 
 Well and Particle (1:48)
-http://andrew.wang-hoyer.com/experiments/particle_system/ 
+http://andrew.wang-hoyer.com/experiments/particle_system/
 
 Dinosaur Database (2:07)
-http://dinosaurpictures.org/ 
+http://dinosaurpictures.org/
 
 Most Popular Words in Movies (2:33)
-http://gettingthingsdata.com/words-in-movies/?utm_source=reddit&utm_medium=internetisinteresting&utm_campaign=est1800 
+--site no longer exists--
 
 Numberium (3:00)
-http://www.flashbynight.com/numberium/ 
+http://www.flashbynight.com/numberium/
 
 Dress The Code (3:17)
-www.dresscodethegame.com 
+www.dresscodethegame.com
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=46) I Broke My Face!****
 
 Crazy Card Trick (0:05)
-http://www.crazycardtrick.com/ 
+http://www.crazycardtrick.com/
 
 Atlas of Emotions (0:16)
-http://atlasofemotions.org/#introduction/ 
+http://atlasofemotions.org/#introduction/
 
 Evolution of Trust (1:02)
-http://ncase.me/trust/  
+http://ncase.me/trust/
 
 Antipodr (1:27)
-http://www.antipodr.com/ 
+http://www.antipodr.com/
 
 Pixel Thoughts (1:41)
-http://www.pixelthoughts.co/ 
+http://www.pixelthoughts.co/
 
 Drip Sessions (1:55)
-http://andrew.wang-hoyer.com/experiments/dripsessions/ 
+http://andrew.wang-hoyer.com/experiments/dripsessions/
 
 The Blob (2:10)
-http://andrew.wang-hoyer.com/experiments/blob/ 
+http://andrew.wang-hoyer.com/experiments/blob/
 
 Scrolling Text Time Waster (2:29)
-http://patorjk.com/misc/scrollingtext/timewaster.php 
+http://patorjk.com/misc/scrollingtext/timewaster.php
 
 All the Minutes (2:47)
-http://alltheminutes.com/ 
+http://alltheminutes.com/
 
 3D Face (3:11)
-http://www.cs.nott.ac.uk/~psxasj/3dme/ 
+http://www.cs.nott.ac.uk/~psxasj/3dme/
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=47) The Eyezen Challenge -- DONG****
 
 ToneMatrix (0:03)
-http://tonematrix.audiotool.com/ 
+http://tonematrix.audiotool.com/
 
 Eye zen  (0:12)
-https://eyezen-challenge.com/  
+--site no longer exists--
 
 Human Biodigital (0:40)
-https://human.biodigital.com 
+https://human.biodigital.com
 
 Windy (1:14)
-https://www.windy.com/?34.705,-122.212,5 
+https://www.windy.com/?34.705,-122.212,5
 
 Sphere (1:44)
-http://mrdoob.com/#/135/sphere   
+http://mrdoob.com/#/135/sphere
 
 Jeraxxus (1:57)
-https://www.openprocessing.org/sketch/445628 
+https://www.openprocessing.org/sketch/445628
 
 Coin (2:15)
-https://projects.playables.net/coin/ 
+https://projects.playables.net/coin/
 
 Book Suggestions Ninja (2:28)
-https://www.booksuggestions.ninja/ 
+--site no longer exists--
 
 Colotwino (2:36)
-http://colotwino.com/ 
+--site no longer exists--
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=48) I'M FLYING -- DONG****
 
 I Believe Poppy (0:08)
-http://www.ibelievepoppy.com/ 
+http://www.ibelievepoppy.com/
 
 Niagara Roger Water (0:20)
-https://rogerwater.world/system.html?fpc 
+--site no longer exists--
 
 Zoetrope (0:43)
-http://andrew.wang-hoyer.com/experiments/zoetrope/ 
+http://andrew.wang-hoyer.com/experiments/zoetrope/
 
 Do Not Touch (1:05)
-http://donottouch.org/ 
+http://donottouch.org/
 
 Creatures Chasing Snacks (1:23)
-https://www.openprocessing.org/sketch/158612 
+https://www.openprocessing.org/sketch/158612
 
 Touch (1:45)
-http://codedoodl.es/_/edankwan/touch/  
+--site no longer exists--
 
 Compare Sizes (2:03)
-http://comparesizes.com/ 
+http://comparesizes.com/
 
 Word Counter Tool (2:28)
-https://wordcounttools.com/ 
+https://wordcounttools.com/
 
 Broken Words (2:46)
-https://www.brainzilla.com/word-games/broken-words/ 
+https://www.brainzilla.com/word-games/broken-words/
 
 Trivia Bliss (3:01)
 http://triviabliss.com/
@@ -1448,97 +1448,97 @@ http://triviabliss.com/
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=49) There's a New Most-Unpopular Emoji****
 
 Is it Monday? (0:05)
-http://isitmondaynow.com 
+http://isitmondaynow.com
 
 Clap.space (0:18)
-http://clap.space/ 
+http://clap.space/
 
-Emoji Tracker (0:27)                  
-http://emojitracker.com/ 
+Emoji Tracker (0:27)
+http://emojitracker.com/
 
 Quite The Hike (0:38)
-http://www.quitethehike.co.uk/ 
+http://www.quitethehike.co.uk/
 
 Gradient World (1:07)
-https://gradient.world/ 
+https://gradient.world/
 
 Drawing Grid (1:23)
-https://www.openprocessing.org/sketch/128847 
+https://www.openprocessing.org/sketch/128847
 
 Squirt (1:43)
-http://squirt.io 
+http://squirt.io
 
 Cucumber Spin (1:55)
-http://gurka.se 
+http://gurka.se
 
 Two Foods (2:12)
-http://www.twofoods.com 
+http://www.twofoods.com
 
 Where is the Red (2:27)
-http://butchersworkshop.com/witr 
+http://butchersworkshop.com/witr
 
 Treksit (2:42)
-http://Treksit.com   
+http://Treksit.com
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=50) The Dullest DONG? -- DONG****
 
 Dullest Blog (0:10)
-http://Dullestblog.com  
+http://Dullestblog.com
 
 Genetic Geography of the Brain (0:21)
-http://casestudies.brain-map.org/ggb#section_explorea 
+http://casestudies.brain-map.org/ggb#section_explorea
 
 Babbl (0:57)
-http://babbl.xyz/ 
+http://babbl.xyz/
 
 Tumble (1:17)
-http://andrew.wang-hoyer.com/experiments/tumbler/ 
+http://andrew.wang-hoyer.com/experiments/tumbler/
 
 Duration Between Dates (1:31)
-https://www.timeanddate.com/date/duration.html  
+https://www.timeanddate.com/date/duration.html
 
 Here is Today (1:57)
-http://hereistoday.com/ 
+http://hereistoday.com/
 
 Coloblock (2:27)
-http://coloblocks.nebulabytes.com/ 
+http://coloblocks.nebulabytes.com/
 
 Tetris (2:45)
-http://grompe.org.ru/static/tetris.html 
+http://grompe.org.ru/static/tetris.html
 
 Combination Lock (3:11)
-http://www.combinationlock.com/play.asp?r=2&d=0 
+http://www.combinationlock.com/play.asp?r=2&d=0
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=51) Planetary Densities...And More! -- DONG****
 
 Game About Squares (0:10)
-http://gameaboutsquares.com/ 
+http://gameaboutsquares.com/
 
 Scale Planets (0:44)
-http://planets.wthr.us/  
+--site no longer exists--
 
 Haberdasher’s Puzzle (1:05)
-https://academo.org/demos/haberdashers-puzzle/ 
+https://academo.org/demos/haberdashers-puzzle/
 
 MolGrabber3D (1:22)
-https://web.chemdoodle.com/demos/molgrabber-3d/ 
+https://web.chemdoodle.com/demos/molgrabber-3d/
 
 Webb Letters (1:43)
-https://www.openprocessing.org/sketch/149337 
+https://www.openprocessing.org/sketch/149337
 
 Skeletons (1:53)
-http://eskeletons.org//  
+http://eskeletons.org//
 
 070 Shake (2:17)
-https://demo.marpi.pl/070shake/  
+https://demo.marpi.pl/070shake/
 
 Hexel (2:37)
-http://hexel.co/ 
+http://hexel.co/
 
 Android Game (2:56)
-https://www.android.com/404/ 
+https://www.android.com/404/
 
 Deep Audio Visualization (3:09)
 https://bgodefroyfr.github.io/Deep-Audio-Visualization/web-app/
@@ -1547,114 +1547,114 @@ https://bgodefroyfr.github.io/Deep-Audio-Visualization/web-app/
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=52) How Big Is Space? -- DONG****
 
 Watching Grass Grow (0:21)
-http://www.watching-grass-grow.com/ 
+http://www.watching-grass-grow.com/
 
 Beautiful Nightmare (0:30)
-http://mymostbeautifulnightmare.road-ends.com/# 
+http://mymostbeautifulnightmare.road-ends.com/#
 
 How Big Is Space (0:57)
-http://www.bbc.com/future/bespoke/20140304-how-big-is-space-interactive/index.html 
- 
+http://www.bbc.com/future/bespoke/20140304-how-big-is-space-interactive/index.html
+
 Life of The Blue Whale (1:20)
-http://www.nhm.ac.uk/bluewhale/ 
+http://www.nhm.ac.uk/bluewhale/
 
 World Fitness Level (1:55)
-https://www.worldfitnesslevel.org/#/ 
+https://www.worldfitnesslevel.org/#/
 
 What Music Suits Your Face (2:20)
-https://peekabeat.com/#!/ 
+https://peekabeat.com/#!/
 
 Watch Pasta Fall (2:41)
-http://alteredqualia.com/three/examples/webgl_pasta.html 
+http://alteredqualia.com/three/examples/webgl_pasta.html
 
 Color Switch (3:01)
-http://www.crazygames.com/game/color-switch 
+http://www.crazygames.com/game/color-switch
 
 Contre Jour (3:23)
-http://www.contrejour.ie/ 
+--site no longer exists--
 
 Cycle Blob (3:39)
-http://cycleblob.com/ 
+http://cycleblob.com/
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=53) Who's Your Twin? -- DONG****
 
 Jello Time (0:09)
-http://www.jellotime.com/ 
+http://www.jellotime.com/
 
 Twins or Not (0:34)
-https://www.twinsornot.net/ 
+https://www.twinsornot.net/
 
 No Time Zone (1:09)
-https://notime.zone/ 
+https://notime.zone/
 
 Drums Kit (1:43)
-http://www.ronwinter.tv/drums.html 
+http://www.ronwinter.tv/drums.html
 
 The Economists (2:06)
 http://www.andyfoulds.co.uk/amusement/economists.htm
 
 Relaxing DONG (2:40)
-http://iacopoapps.appspot.com/hopalongwebgl/ 
+http://iacopoapps.appspot.com/hopalongwebgl/
 
 Stick of Gum (2:55)
-https://www.stick-of-gum.com/ 
+https://www.stick-of-gum.com/
 
 Toaster Swipe (3:02)
-https://snoutup.itch.io/toaster-swipe 
+--site no longer exists--
 
 Aim Booster (3:27)
-http://www.aimbooster.com 
+http://www.aimbooster.com
 
 Synesthesia (3:49)
-http://synesthesiagame.com/game/ 
+http://synesthesiagame.com/game/
 
 T. Rex Runner (4:13)
-http://www.trex-game.skipser.com/ 
+http://www.trex-game.skipser.com/
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=54) Weirdest Website Domains! -- DONG****
 
 Walking Tomato Potato (0:07)
-http://www.walkingtomatopotato.tk/ 
+http://www.walkingtomatopotato.tk/
 
 Billy Chasen Clock (0:20)
-http://billychasen.com/clock/ 
+http://billychasen.com/clock/
 
 Chromate (0:37)
 https://www.michaelbromley.co.uk/experiments/chromata/#playground
 
 Draw This (1:01)
-https://drawthis.io/ 
+https://drawthis.io/
 
 Dumb.Domains (1:22)
-http://dumb.domains/ 
+http://dumb.domains/
 
 Crossing.us (1:40)
-https://www.crossing.us/ 
+--site no longer exists--
 
 Road to Philosophy (1:59)
-https://xefer.com/wikipedia 
+https://xefer.com/wikipedia
 
 Numberonic (2:23)
-http://numberonic.nebulabytes.com/ 
+http://numberonic.nebulabytes.com/
 
 Memorize the Squares (2:42)
-https://www.humanbenchmark.com/tests/memory 
+https://www.humanbenchmark.com/tests/memory
 
 Kandinsky (3:02)
-https://musiclab.chromeexperiments.com/Kandinsky 
+https://musiclab.chromeexperiments.com/Kandinsky
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=55) Who Old Are You? -- DONG****
 
 Nooo.com (0:03)
-http://www.nooooooooooooooo.com/ 
+http://www.nooooooooooooooo.com/
 
 Who Old Are You (0:24)
-http://www.informationisbeautiful.net/visualizations/who-old-are-you/ 
+http://www.informationisbeautiful.net/visualizations/who-old-are-you/
 
-Museum of Conceptual Art (0:42) 
+Museum of Conceptual Art (0:42)
 http://www.museumofconceptualart.com/accomplished/
 
 Wait but Why (0:52)
@@ -1664,23 +1664,23 @@ Premier Magazine (1:38)
 http://www.primermagazine.com/2016/live/your-life-in-weeks-visualized-how-to-quit-procrastinating-and-actually-start-living-interactive
 
 Brain Anatomy (1:45)
-https://www.koshland-science-museum.org/explore-the-science/interactives/brain-anatomy  
+https://www.koshland-science-museum.org/explore-the-science/interactives/brain-anatomy
 
 Brain Tree (1:51)
-https://demo.marpi.pl/braintree/webcam_ascii/ 
+https://demo.marpi.pl/braintree/webcam_ascii/
 
 Word Association (2:10)
-http://www.wordassociation.org/  
+http://www.wordassociation.org/
 
 Degrees of Wikipedia (2:38)
-http://degreesofwikipedia.com 
+http://degreesofwikipedia.com
 
 City Extremes (2:59)
-http://cityextremes.com/city.php?cn=US&c=london_united_kingdom 
+http://cityextremes.com/city.php?cn=US&c=london_united_kingdom
 
 Trigon (3:18)
-https://trigon.frvr.com/ 
- 
+https://trigon.frvr.com/
+
 Jump Ball (3:35)
 http://jumpball.io/
 
@@ -1688,130 +1688,130 @@ http://jumpball.io/
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=56) Change Your Identity!****
 
 Shower Time (0:05)
-http://showerti.me/ 
+http://showerti.me/
 
 Fake Name Generator (0:14)
-http://www.fakenamegenerator.com/gen-male-us-uk.php 
+http://www.fakenamegenerator.com/gen-male-us-uk.php
 
 Pianu (0:38)
-http://pianu.com 
+http://pianu.com
 
 Electronium (1:09)
-http://www.dreampipe.io/electronium/ 
+http://www.dreampipe.io/electronium/
 
 Infinite Jukebox (1:36)
-http://labs.echonest.com/Uploader/index.html?trid=TRQDXXM13AFAB66B3F&thresh=80&bp=18,100,0 
+http://labs.echonest.com/Uploader/index.html?trid=TRQDXXM13AFAB66B3F&thresh=80&bp=18,100,0
 
 Eclipse Simulator  (2:00)
-https://eclipsemega.movie/simulator 
+--site no longer exists--
 
 Waterfall Simulator (2:22)
-https://www.openprocessing.org/sketch/428395 
+https://www.openprocessing.org/sketch/428395
 
-Raptjs (247): 
-http://raptjs.com/play/#/rapt/Intro_1/ 
+Raptjs (247):
+http://raptjs.com/play/#/rapt/Intro_1/
 
 Draw Together (3:21)
-https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html 
+https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html
 
 The Bubbles (3:44)
-http://thebubbles.click/
+--site no longer exists--
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=67) SPIROGRAPHS****
 
 Chill out (0:11)
-http://www.chillouts.com/relax.asp 
- 
+http://www.chillouts.com/relax.asp
+
 Population Explorer (0:21)
-https://populationexplorer.com/ 
- 
+https://populationexplorer.com/
+
 Phases (0:58)
-http://my.asciiart.club/play/water.html   
- 
+http://my.asciiart.club/play/water.html
+
 Neon Flames (1:16)
-https://29a.ch/sandbox/2011/neonflames/# 
- 
+https://29a.ch/sandbox/2011/neonflames/#
+
 Spirograph (1:46)
-http://seedcode.com/SpirographN/sgn.html  
- 
+http://seedcode.com/SpirographN/sgn.html
+
 Stonehenge Tour (2:13)
-http://www.english-heritage.org.uk/visit/places/stonehenge/history/stonehenge360/ 
- 
+http://www.english-heritage.org.uk/visit/places/stonehenge/history/stonehenge360/
+
 Motorcycle Ergonomics (2:34)
-http://cycle-ergo.com/ 
- 
+http://cycle-ergo.com/
+
 Biggest Highest Best (2:51)
-https://www.fundingcircle.com/uk/featured/biggest-highest-best/ 
- 
+https://www.fundingcircle.com/uk/featured/biggest-highest-best/
+
 Yellow (3:07)
-http://www.newgrounds.com/portal/view/693545 
- 
+http://www.newgrounds.com/portal/view/693545
+
 Star Field (3:29)
-http://flashcanvas.net/examples/www.chiptune.com/starfield/starfield.html 
- 
+http://flashcanvas.net/examples/www.chiptune.com/starfield/starfield.html
+
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=58) Combine Sounds!****
 
 Paper Toilet (0:08)
-http://www.papertoilet.com  
- 
+http://www.papertoilet.com
+
 Following Eyes (0:22)
-https://demo.marpi.pl/eyes/ 
- 
+https://demo.marpi.pl/eyes/
+
 Spider (0:33)
-http://www.vectorpark.com/etc/spider.html 
- 
+http://www.vectorpark.com/etc/spider.html
+
 ISS Photo Explorer (0:58)
-http://callumprentice.github.io/apps/iss_photo_explorer/index.html?m=22&p=75636 
- 
+http://callumprentice.github.io/apps/iss_photo_explorer/index.html?m=22&p=75636
+
 Vortex Shedding (1:30)
-http://git.amandaghassaei.com/VortexShedding/ 
- 
+http://git.amandaghassaei.com/VortexShedding/
+
 Physics Simulation (1:48)
-http://tewan.diem.cl/webspace/canvasexperiment/ 
- 
+http://tewan.diem.cl/webspace/canvasexperiment/
+
 Bird Sounds (2:05)
-https://aiexperiments.withgoogle.com/bird-sounds/view/ 
- 
+https://aiexperiments.withgoogle.com/bird-sounds/view/
+
 Nsynth (2:37)
-https://aiexperiments.withgoogle.com/sound-maker/view/ 
- 
+https://aiexperiments.withgoogle.com/sound-maker/view/
+
 Swappy (3:08)
-http://swappy10.com/ 
- 
+http://swappy10.com/
+
 Word Whip (3:25)
-https://krgamedev.itch.io/word-whip 
+https://krgamedev.itch.io/word-whip
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=59) How Fast Can You Make A Human?****
 
 Retro Lamp (0:08)
-http://www.retrolamp.com/lava.asp
+--site no longer exists--
 
 Posemaniacs (0:18)
-http://www.posemaniacs.com/thirtysecond 
+http://www.posemaniacs.com/thirtysecond
 
 Pixlpa (0:40)
-https://pixlpa.com/mobrush/index.html 
+https://pixlpa.com/mobrush/index.html
 
 Star Fluid (0:54)
-http://jotrdl.github.io/experiments/starfluid/ 
+http://jotrdl.github.io/experiments/starfluid/
 
 Sunspots (1:09)
-https://academo.org/demos/galileos-sunspots/ 
+https://academo.org/demos/galileos-sunspots/
 
 Storm Tracker (1:31)
 http://callumprentice.github.io/apps/storm_tracks_webgl_too/index.html#
 
 Short Funny (2:14)
-http://www.short-funny.com/new-jokes.php 
+http://www.short-funny.com/new-jokes.php
 
 Every Noise (2:34)
-http://everynoise.com/engenremap.html 
+http://everynoise.com/engenremap.html
 
 Smart Tethrees (3:00)
-http://www.newgrounds.com/portal/view/694041 
+http://www.newgrounds.com/portal/view/694041
 
 Sound Waves (3:21)
 https://musiclab.chromeexperiments.com/Sound-Waves
@@ -1820,139 +1820,139 @@ https://musiclab.chromeexperiments.com/Sound-Waves
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=60) Bring In The Cats!****
 
 Bring in the Cats (0:07)
-http://bringinthecats.com/ 
+http://bringinthecats.com/
 
 Number Memory Test (0:17)
-https://www.humanbenchmark.com/tests/number-memory 
+https://www.humanbenchmark.com/tests/number-memory
 
 Deep Focus (0:39)
-http://deepfocus.io/ 
+http://deepfocus.io/
 
 Melody Maker (1:05)
-https://musiclab.chromeexperiments.com/Melody-Maker 
+https://musiclab.chromeexperiments.com/Melody-Maker
 
 Voxel Builder (1:23)
-http://voxelbuilder.com/edit#C/2ecc713498db34495ee67e22ecf0f1:A/adi 
+http://voxelbuilder.com/edit#C/2ecc713498db34495ee67e22ecf0f1:A/adi
 
 3D Ball Game (1:54)
-https://www.openprocessing.org/sketch/428101 
+https://www.openprocessing.org/sketch/428101
 
 Bubbles (2:12)
-https://bubbles.withgoogle.com/ 
+--site no longer exists--
 
 Fluids (2:47)
-http://www.escapemotions.com/experiments/fluidz/index.php 
+http://www.escapemotions.com/experiments/fluidz/index.php
 
 3D Landscape (3:11)
-https://ianmaclarty.itch.io/reflection 
+--site no longer exists--
 
 Quads (3:30)
-http://www.quodb.com/search/what's%20up 
+http://www.quodb.com/search/what's%20up
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=61) Moments Of Happiness!****
 
 Click to Remove (0:14)
-http://www.clicktoremove.com/ 
+http://www.clicktoremove.com/
 
 In Space We Trust (0:26)
-http://inspacewetrust.org/en/ 
+http://inspacewetrust.org/en/
 
 Species In Pieces (1:02)
-http://species-in-pieces.com/# 
+http://species-in-pieces.com/#
 
 Moments Of Happiness (1:27)
-https://moments.epic.net/#lion   
+https://moments.epic.net/#lion
 
 Voice Spinner (1:56)
-https://musiclab.chromeexperiments.com/Voice-Spinner 
+https://musiclab.chromeexperiments.com/Voice-Spinner
 
 Auto Canonizer (2:25)
 http://static.echonest.com/autocanonizer/go.html?trid=TRQEJOQ13B0F8E07E5
 
 Write Light (2:50)
-http://writelight.guru/ 
+http://writelight.guru/
 
 Magic Pen (3:08)
-http://www.physicsgames.net/game/Magic_Pen.html 
+http://www.physicsgames.net/game/Magic_Pen.html
 
 Streamline (3:37)
-http://ozogames.com/streamline.html 
+http://ozogames.com/streamline.html
 
 Cool Road Names (4:06)
-https://streetmotive.com/ 
+--site no longer exists--
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=62) Do You Know How Long A Second Is? -- DONG****
 
 Pay for Nothing (0:20)
-https://payfornothing.club/ 
+https://payfornothing.club/
 
 ClicClock (0:30)
-https://cliclock.netlify.com/ 
+https://cliclock.netlify.com/
 
 World Airports Moroni (0:50)
-https://www.jasondavies.com/maps/voronoi/airports/  
+https://www.jasondavies.com/maps/voronoi/airports/
 
 Journey to the Center of the Earth (1:15)
-http://visual.ly/journey-centre-earth-1?view=true 
+http://visual.ly/journey-centre-earth-1?view=true
 
 Jean Pierre (1:41)
-https://bonhommeparis.com/xp/jeanpierre/ 
+--site no longer exists--
 
 Strings (1:58)
-https://musiclab.chromeexperiments.com/Strings 
+https://musiclab.chromeexperiments.com/Strings
 
 My Car Makes Noise (2:12)
-http://mycarmakesnoise.com/under-the-car/shocks-struts-and-springs/ 
+http://mycarmakesnoise.com/under-the-car/shocks-struts-and-springs/
 
 Arbitrary Awards (2:41)
-http://arbitraryawards.com/ 
+http://arbitraryawards.com/
 
 99 Balls (3:00)
-https://www.crazygames.com/game/99-balls 
+https://www.crazygames.com/game/99-balls
 
 Socket Puzzle (3:14)
-http://www.flashbynight.com/socketu/ 
+http://www.flashbynight.com/socketu/
 
 Muscle Wiki (3:25)
-https://musclewiki.org/ 
+https://musclewiki.org/
 
 Spelling with Elements (4:02)
-https://maxzilla60.github.io/Spelling-with-Elements/ 
+https://maxzilla60.github.io/Spelling-with-Elements/
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=63) Take Off Your Face!****
 
 Steep It (0:15)
-http://steep.it/ 
+http://steep.it/
 
 Periodic Table (0:23)
-http://periodicstats.com 
+http://periodicstats.com
 
 Rag Doll (0:51)
-http://lo-th.github.io/Oimo.js/examples/test_ragdoll.html 
+http://lo-th.github.io/Oimo.js/examples/test_ragdoll.html
 
 Collision Test (1:10)
-http://lo-th.github.io/Oimo.js/examples/test_collision.html 
+http://lo-th.github.io/Oimo.js/examples/test_collision.html
 
 3D Surface Plotter (1:17)
-https://academo.org/demos/3d-surface-plotter/?expression=x*x-y*y&xRange=-60%2C+50&yRange=-50%2C+50&resolution=25 
+https://academo.org/demos/3d-surface-plotter/?expression=x*x-y*y&xRange=-60%2C+50&yRange=-50%2C+50&resolution=25
 
 Hands Over Face (1:39)
-http://funny.pho.to/hands-over-face/result/ 
+http://funny.pho.to/hands-over-face/result/
 
 Speak to Go (1:47)
-https://speaktogo.withgoogle.com/# 
+https://speaktogo.withgoogle.com/#
 
 Sonic Umbrella (2:03)
-https://www.sonicumbrella.com/#  
+https://www.sonicumbrella.com/#
 
 Maze Runner (2:23)
 Sorry this link no longer works.  But get ready for an extra DONG next week!!!
 
 Bouncy Balls (2:35)
-https://bouncyballs.org/ 
+https://bouncyballs.org/
 
 Go Eat Bomb (3:00)
 https://goeatbomb.io/
@@ -1961,76 +1961,76 @@ https://goeatbomb.io/
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=64) Get in the Mood!****
 
 Crouton (0:15)
-http://crouton.net/ 
+http://crouton.net/
 
 Ocean Trench (0:58)
-http://www.bbc.com/news/science-environment-17013285#panel4 
+http://www.bbc.com/news/science-environment-17013285#panel4
 
 I Know the World (1:33)
-http://iknowtheworld.com/ 
+http://iknowtheworld.com/
 
 Isochronic (1:50)
-https://mynoise.net/NoiseMachines/isochronicBrainwaveGenerator.php 
+https://mynoise.net/NoiseMachines/isochronicBrainwaveGenerator.php
 
 Hearing Like Me (2:29)
-https://www.hearinglikeme.com/hearing-loss-simulator/ 
+https://www.hearinglikeme.com/hearing-loss-simulator/
 
 Lightning Map (3:03)
 https://www.lightningmaps.org/?lang
 
 Avoid the Red Dots (3:26)
-http://www.sinuousgame.com/ 
+http://www.sinuousgame.com/
 
 Plate on a Stick (3:40)
-http://www.plateonastick.net/ 
+http://www.plateonastick.net/
 
 Moodier (3:53)
-https://www.moodica.com/?utm_campaign
+--site no longer exists--
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=65) Am I Wasting my Time?****
 
 Trash Loop (0:13)
-http://www.trashloop.com/ 
+http://www.trashloop.com/
 
 David Mccooey (0:45)
 http://dmccooey.com/polyhedra/StarPrismAntiprism.html
 
 Cutouts (0:59)
-http://www.korthalsaltes.com/ 
+http://www.korthalsaltes.com/
 
-Spare Time  (1:07)   
-http://sparetime.arkivert.no/en 
+Spare Time  (1:07)
+--site no longer exists--
 
 Auto Draw (1:32)
-https://www.autodraw.com/ 
+https://www.autodraw.com/
 
 Ava Sessions (2:00)
-https://ava-sessions.com/ 
+https://ava-sessions.com/
 
 Ambicular (2:29)
-http://www.ambicular.com 
+http://www.ambicular.com
 
 Rubik's Cube (2:51)
-http://www.randelshofer.ch/webgl/rubikscube/ 
+http://www.randelshofer.ch/webgl/rubikscube/
 
 I love this Fame (3:07)
-http://ilovethisfame.com/ 
+http://ilovethisfame.com/
 
 Ro.me (3:25)
-http://www.ro.me/tech/ 
+http://www.ro.me/tech/
 
 Open Worm (3:46)
-http://browser.openworm.org/#nav=7.46,-0.03,7.23 
+http://browser.openworm.org/#nav=7.46,-0.03,7.23
 
 That’s your Jam (4:05)
-https://thatsyourjam.com/ 
+https://thatsyourjam.com/
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=66) Let your DONG Flag Fly!****
 
 Carrot Museum (0:15)
-http://www.carrotmuseum.co.uk/carrotcolours.html 
+http://www.carrotmuseum.co.uk/carrotcolours.html
 
 Flag Waver (0:25)
 https://krikienoid.github.io/flagwaver/
@@ -2039,221 +2039,221 @@ Geo Targit (0:47)
 http://us.geotargit.com/
 
 Mercator Extreme (1:19)
-https://mrgris.com/projects/merc-extreme/#0b6b7dd3@-17.65092,-149.42604 
+https://mrgris.com/projects/merc-extreme/#0b6b7dd3@-17.65092,-149.42604
 
 2050.earth (2:09)
-https://2050.earth/# 
+https://2050.earth/#
 
 Spectrum Analyzer (2:39)
-https://academo.org/demos/spectrum-analyzer/ 
+https://academo.org/demos/spectrum-analyzer/
 
 Pick (3:09)
-https://smt.codes/stuff/pickr/ 
+https://smt.codes/stuff/pickr/
 
 Fluid Paint (3:26)
-http://david.li/paint/ 
+http://david.li/paint/
 
 Roboboogie (3:48)
-https://roboboogie.codeclub.org.uk/ 
+https://roboboogie.codeclub.org.uk/
 
 Icons of the Web (4:07)
-https://nmap.org/favicon/ 
+https://nmap.org/favicon/
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=67) Your Animal Weight!****
 
 Flip Text (0:18)
-http://www.fliptext.org/ 
+http://www.fliptext.org/
 
 Temperature Anomalies (0:29)
-http://philogb.github.io/page/temperature-anomalies/ 
+http://philogb.github.io/page/temperature-anomalies/
 
 The History of Satellites (0:48)
-https://wax-o.com/demo/satellites/ 
+https://wax-o.com/demo/satellites/
 
 Geovisual (1:24)
-https://search.descarteslabs.com/?layer 
+https://search.descarteslabs.com/?layer
 
 Pink Trombone (1:44)
-http://dood.al/pinktrombone/ 
+http://dood.al/pinktrombone/
 
 Topo Topo (2:05)
-http://topotopo.io/ 
+http://topotopo.io/
 
 Beat Painter (2:17)
-https://beatpainter.com/ 
+https://beatpainter.com/
 
 Video Drone (2:37)
-http://stellatigre.github.io/videodrone-2/ 
+http://stellatigre.github.io/videodrone-2/
 
 My Animal Weight (3:04)
-http://myanimalweight.com/goat/ 
+http://myanimalweight.com/goat/
 
 Revolving Internet (3:26)
-http://therevolvinginternet.com/  
+http://therevolvinginternet.com/
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=68) Cook Your Meat Online!****
 
 Bring (0:33)
-http://garyc.me/bring/ 
+http://garyc.me/bring/
 
 Meat Cooker (0:43)
-http://up.csail.mit.edu/science-of-cooking/home-screen.html 
+http://up.csail.mit.edu/science-of-cooking/home-screen.html
 
 Time Flies (1:38)
-https://www.maximiliankiener.com/digitalprojects/time/ 
+https://www.maximiliankiener.com/digitalprojects/time/
 
 Airplane and Watch AR Viewer (2:15) (2:37)
-http://demo.joaopescada.com/airplane-ar-viewer/ 
-http://demo.joaopescada.com/timex-ar-watch/ 
+http://demo.joaopescada.com/airplane-ar-viewer/
+http://demo.joaopescada.com/timex-ar-watch/
 
 Vision Run (2:41)
-http://jeu-essilor.studio.pprod.aeaws.com 
+http://jeu-essilor.studio.pprod.aeaws.com
 
 Digital Trip (2:59)
-https://htdt.github.io/digital_trip/ 
+https://htdt.github.io/digital_trip/
 
 Path Finder (3:16)
-http://qiao.github.io/PathFinding.js/visual/ 
+http://qiao.github.io/PathFinding.js/visual/
 
 How Astronauts are Affected  (3:43)
-https://www.nasa.gov/externalflash/HRP_Feature/ 
+--site no longer exists--
 
 NYC Trees (4:05)
-http://www.cloudred.com/labprojects/nyctrees/#about 
+http://www.cloudred.com/labprojects/nyctrees/#about
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=69) 100 Year Secret!****
 
 Where is the Sloth (0:12)
-http://www.whereisthesloth.com/ 
+http://www.whereisthesloth.com/
 
 Future Library (0:24)
-https://www.futurelibrary.no/ 
+https://www.futurelibrary.no/
 
 Virtual Reality Painting (0:48)
-https://virtualart.chromeexperiments.com/ 
+https://virtualart.chromeexperiments.com/
 
 Globe of Economic Complexity (1:14)
-http://globe.cid.harvard.edu/?mode=productspace3D&id=US 
+http://globe.cid.harvard.edu/?mode=productspace3D&id=US
 
 Basic Probability (1:53)
-http://students.brown.edu/seeing-theory/basic-probability/index.html 
+http://students.brown.edu/seeing-theory/basic-probability/index.html
 
 My Fridge Food (2:42)
-https://myfridgefood.com/ 
+https://myfridgefood.com/
 
 Super Resize Me (2:58)
-http://www.maximin.tv/srm/ 
+--site no longer exists--
 
 Blocks (3:11)
-http://blocks.ovh/ 
+http://blocks.ovh/
 
 Colorize (3:33)
-https://alexbeals.com/projects/colorize/ 
+https://alexbeals.com/projects/colorize/
 
 My Oats (3:50)
-https://www.myoats.com/create.aspx 
+https://www.myoats.com/create.aspx
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=70) What's Your Worth?****
 
 Please Wait
-http://pleasewait.co.uk 
+http://pleasewait.co.uk
 
 Gravity Points
-http://codepen.io/akm2/full/rHIsa 
+http://codepen.io/akm2/full/rHIsa
 
 Kerning
-http://type.method.ac/# 
+http://type.method.ac/#
 
 Making of Me and You
-http://www.bbc.com/earth/story/the-making-of-me-and-you#/results/top 
+http://www.bbc.com/earth/story/the-making-of-me-and-you#/results/top
 
 Le Voyage de Tom
-https://levoyagedetom.up.coop 
+https://levoyagedetom.up.coop
 
 Crystal Galaxy
 http://www.effectgames.com/effect/games/crystalgalaxy/
 
 Black Hole
-http://hubblesite.org/explore_astronomy/black_holes/modules.html  
+http://hubblesite.org/explore_astronomy/black_holes/modules.html
 
 LightYear.fm
-http://www.lightyear.fm/ 
+http://www.lightyear.fm/
 
 Meteor Showers
 http://www.ianww.com/meteor-showers/
 
 WikiGalaxy
-http://wiki.polyfra.me/# 
+http://wiki.polyfra.me/#
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=71) Meow?****
 
 Random Text (0:21)
-http://www.randomtext.com/ 
+http://www.randomtext.com/
 
 Ozora (0:32)
-https://ozorafestival.eu/ 
+https://ozorafestival.eu/
 
 Affinelayer (0:53)
-https://affinelayer.com/pixsrv/ 
+https://affinelayer.com/pixsrv/
 
 Tonecraft (1:09)
-http://dinahmoelabs.com/tonecraft 
+http://dinahmoelabs.com/tonecraft
 
 Draw a Cat (1:28)
-http://www.drawacat.net/home?page=1&sort=top 
+http://www.drawacat.net/home?page=1&sort=top
 
 Gallant Lab (1:46)
-http://gallantlab.org/huth2016/ 
+http://gallantlab.org/huth2016/
 
 Mapping the Brain (2:20)
-http://www.pbs.org/wgbh/nova/assets/swf/1/mapping-the-brain/mapping-the-brain.html 
+http://www.pbs.org/wgbh/nova/assets/swf/1/mapping-the-brain/mapping-the-brain.html
 
 Map Fight (2:40)
-http://mapfight.appspot.com/  
+http://mapfight.appspot.com/
 
 MeteoEarth (2:57)
-http://www.meteoearth.com/ 
+http://www.meteoearth.com/
 
 Mr. Red (3:20)
 http://getred2.herokuapp.com/
 
 Virtual Beard (3:39)
-http://www.ukhairdressers.com/virtual-beard/ 
+--site no longer exists--
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=72) I am a Turtle!****
 
 I am a turtle (0:35)
-https://www.iamaturtle.org/ 
+https://www.iamaturtle.org/
 
 See Now (0:42)
-http://simulator.seenow.org/ 
+--site no longer exists--
 
 Bear’s Eye View (1:07)
-http://www.nationalgeographic.com/magazine/2016/05/yellowstone-national-parks-bears-video/ 
+http://www.nationalgeographic.com/magazine/2016/05/yellowstone-national-parks-bears-video/
 
 Dolly Zoom (1:34)
-http://dollyzoom.herokuapp.com/ 
+http://dollyzoom.herokuapp.com/
 
 Short Books (2:22)
-http://www.shortbooks.co/index.php 
+http://www.shortbooks.co/index.php
 
 Statistics of Rolling Dice (2:38)
-https://academo.org/demos/dice-roll-statistics/ 
+https://academo.org/demos/dice-roll-statistics/
 
 In the Sky (3:14)
-https://in-the-sky.org/twilightmap.php 
+https://in-the-sky.org/twilightmap.php
 
-Climatune (3:52) 
-https://weather.withspotify.com/ 
+Climatune (3:52)
+--site no longer exists--
 
 Audible Visuals (4:04)
-https://soniaboller.github.io/audible-visuals/ 
+https://soniaboller.github.io/audible-visuals/
 
 Untangle (4:19)
 http://af.id.au/untangle/
@@ -2262,25 +2262,25 @@ http://af.id.au/untangle/
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=73) Longest Site on the Internet!****
 
 Drama Button (0:32)
-http://www.dramabutton.com/ 
+http://www.dramabutton.com/
 
 Pos.biborg (0:41)
-http://pos.biborg.com/en/ 
+http://pos.biborg.com/en/
 
 Interference and Beat Frequency (1:01)
-https://academo.org/demos/wave-interference-beat-frequency/ 
+https://academo.org/demos/wave-interference-beat-frequency/
 
 Whalesynth (1:32)
-http://www.whalesynth.com/ 
+--site no longer exists--
 
 Everyone on One Page (1:59)
-http://www.7billionworld.com/ 
+http://www.7billionworld.com/
 
 ~~Draw a Square (2:23)
-http://event.catchad.com.tw/drawasquare/
+--site no longer exists--
 
 Jumping Cubes (2:38)
-http://animuchan.net/moz_game/ 
+http://animuchan.net/moz_game/
 
 Squishy Earth (2:53)
 http://www.byronknoll.com/earth.html
@@ -2289,37 +2289,37 @@ http://www.byronknoll.com/earth.html
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=74) Dance With Your Face!****
 
 Please Do Not Disturb Me (0:14)
-http://please.do.not.disturb.me/ 
+http://please.do.not.disturb.me/
 
 Real Slow (0:34)
-https://nithi-p.github.io/finalproject/# 
+https://nithi-p.github.io/finalproject/#
 
 Ancient Earth (1:00)
-http://dinosaurpictures.org/ancient-earth/#280 
+http://dinosaurpictures.org/ancient-earth/#280
 
 Cinetrii (1:16)
-http://cinetrii.com/?i=tt4972582 
+http://cinetrii.com/?i=tt4972582
 
 Create a Chameleon (1:37)
-https://tomtung.github.io/chameleon.js/ 
+https://tomtung.github.io/chameleon.js/
 
 Connection (2:05)
-http://connection.ivank.net/ 
+http://connection.ivank.net/
 
 Pokédraw (2:23)
-http://www.pokedraw.net/
+--site no longer exists--
 
 Piskel Art (2:43)
 http://www.piskelapp.com/
 
 Don’t Let the Baby Cry (3:01)
-https://please-dont-cry.appspot.com/ 
+https://please-dont-cry.appspot.com/
 
 Colorization Open FITS Files (3:24)
-http://chandra.si.edu/photo/openFITS/xray_data.html 
+http://chandra.si.edu/photo/openFITS/xray_data.html
 
 Colorization Video Tutorial
-http://chandra.harvard.edu/photo/openFITS/ 
+http://chandra.harvard.edu/photo/openFITS/
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=75) Make Sick Beats!****
@@ -2328,34 +2328,34 @@ Bigger Pixel (0:09)
 no longer works
 
 BeepBox (0:23)
-http://beepbox.co/#5s0kbl00e03t7a7g0fj7i0r1w1111f0000d1111c0000h0000v0000o3210b4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4p16000000 
+http://beepbox.co/#5s0kbl00e03t7a7g0fj7i0r1w1111f0000d1111c0000h0000v0000o3210b4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4p16000000
 
 360 VR (0:49)
-https://gurivr.com 
+https://gurivr.com
 
 Curiosity (1:10)
-http://eyes.nasa.gov/curiosity/ 
+http://eyes.nasa.gov/curiosity/
 
 Pearl Boy (1:32)
-http://labs.gooengine.com/pearl-boy/indexBelow.html?remote=true&id=6416 
+--site no longer exists--
 
 Heartbeat (1:51)
-https://heartbeats.es/en/  
+--site no longer exists--
 
 Goo Bounce (2:16)
-http://www.newgrounds.com/portal/view/687570 
+http://www.newgrounds.com/portal/view/687570
 
 Alphabet Shoot (2:35)
-http://www.sillyjelly.com/alphabetshoot/ 
+http://www.sillyjelly.com/alphabetshoot/
 
 Stack Tower (2:50)
 http://www.agame.com/game/stack-tower-classic
 
 Finding Love Interactive (3:06)
-https://findinglove.activetheory.net/ 
+https://findinglove.activetheory.net/
 
 Juicing Website (3:24)
-http://simplysmarterjuicing.com/ 
+http://simplysmarterjuicing.com/
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=76) Would You Let Him In?****
@@ -2364,205 +2364,205 @@ I am Awesome (0:31)
 http://iamawesome.com/
 
 Grammar Games (0:41)
-http://chompchomp.com/exercises.htm 
+http://chompchomp.com/exercises.htm
 
 Sven the Bouncer (1:16)
-https://berghaintrainer.com/ 
+https://berghaintrainer.com/
 
-14 Highest Mountains (1:41) 
-http://www.martin-laxenaire.fr/experiments/8000ers/#/everest 
+14 Highest Mountains (1:41)
+http://www.martin-laxenaire.fr/experiments/8000ers/#/everest
 
 Klocki (2:01)
-http://www.kongregate.com/games/targaciej/klocki  
+http://www.kongregate.com/games/targaciej/klocki
 
 Satellite’s Orbiting Earth (2:12)
-https://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/ 
+https://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/
 
 Browser Ball (2:37)
-http://weareinstrument.com/ball/# 
+--site no longer exists--
 
 Water Simulation (2:53)
-http://madebyevan.com/webgl-water/ 
+http://madebyevan.com/webgl-water/
 
 Path Tracing (3:20)
-http://madebyevan.com/webgl-path-tracing/ 
+http://madebyevan.com/webgl-path-tracing/
 
-Jellyfish Particles (3:40) 
-https://jayweeks.com/medusae/ 
+Jellyfish Particles (3:40)
+https://jayweeks.com/medusae/
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=77) DONG Delivery!****
 
 RGB (0:03)
-http://www.rrrgggbbb.com/ 
+http://www.rrrgggbbb.com/
 
 Ringing Telephone (0:12)
 http://www.ringingtelephone.com
 
 I Can’t Sleep (0:22)
-http://www.icantsleep.help/ 
+http://www.icantsleep.help/
 
-Rafaël Rozendaal (0:39) 
+Rafaël Rozendaal (0:39)
 http://www.newrafael.com/websites
 
 Egg Alone (0:50)
-http://www.eggalone.com/  
+http://www.eggalone.com/
 
 Almost Calm (0:55)
-http://www.almostcalm.com/ 
+http://www.almostcalm.com/
 
 Mystery Search (1:01)
 https://mysterysear.ch
 
 Ice Lolly (1:12)
-https://www.icelolly.com/wheres-lolly/ 
+https://www.icelolly.com/wheres-lolly/
 
 Up to Tab (1:38)
-https://uptotab.com/ 
+--site no longer exists--
 
 DNA Extraction (1:56)
-http://learn.genetics.utah.edu/content/labs/extraction/ 
+http://learn.genetics.utah.edu/content/labs/extraction/
 
 Compare Height (2:27)
-http://www.mrinitialman.com/OddsEnds/Sizes/compsizes.xhtml 
+http://www.mrinitialman.com/OddsEnds/Sizes/compsizes.xhtml
 
 Finding Strengths Test (2:38)
 http://richardstep.com/richardstep-strengths-weaknesses-aptitude-test/free-aptitude-test-find-your-strengths-weaknesses-online-version
 
 Bezier curves (2:53)
-https://www.jasondavies.com/animated-bezier/ 
+https://www.jasondavies.com/animated-bezier/
 
 NASA's Scientific Visualization Studio (3:07)
-https://svs.gsfc.nasa.gov/cgi-bin/search.cgi?contentType=s 
+https://svs.gsfc.nasa.gov/cgi-bin/search.cgi?contentType=s
 
 Helioviewer (3:25)
-https://www.helioviewer.org 
+https://www.helioviewer.org
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=78) Yeah Boiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii****
 
 Broken Self (0:06)
-http://www.brokenself.com/ 
+http://www.brokenself.com/
 
 Moon Phases (0:21)
-https://svs.gsfc.nasa.gov/4537 
+https://svs.gsfc.nasa.gov/4537
 
 Art Map (0:42)
-https://artsexperiments.withgoogle.com/tsnemap/ 
+https://artsexperiments.withgoogle.com/tsnemap/
 
 Photography Mapped (1:17)
-http://photography-mapped.com/interact.html 
+http://photography-mapped.com/interact.html
 
-Asmr Generator (1:53) 
-http://asmrion.com/ 
+Asmr Generator (1:53)
+http://asmrion.com/
 
 Clubber Toy (2:16)
-https://wizgrav.github.io/clubber/index.html 
+https://wizgrav.github.io/clubber/index.html
 
-Name Combiner (2:51) 
+Name Combiner (2:51)
 http://namecombiner.com/
 
 Maze Cheese (3:06)
-http://www.mazecheese.com/mazes/maze25.html 
+http://www.mazecheese.com/mazes/maze25.html
 
 Yeah Boiiiiii (3:18)
-http://yeahboi.me/?skin=christmas 
+http://yeahboi.me/?skin=christmas
 
 Cranky Crabs (3:44)
-http://www.ferryhalim.com/orisinal/g2/crab.htm 
+http://www.ferryhalim.com/orisinal/g2/crab.htm
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=79) Read Minds!****
 
 Taco spin (0:13)
-http://www.tacospin.com/ 
+http://www.tacospin.com/
 
 Stranger Things (0:35)
-https://spaces.archilogic.com/model/archilogic/wlvpref1?modelResourceId=49efd011-bda6-4622-81c3-59a1af35987b&logo=false&main-menu=none&mode=edit&view-menu=none 
+https://spaces.archilogic.com/model/archilogic/wlvpref1?modelResourceId=49efd011-bda6-4622-81c3-59a1af35987b&logo=false&main-menu=none&mode=edit&view-menu=none
 
-Cool Magic Tricks (0:57)  
-http://www.goodtricks.net/ 
+Cool Magic Tricks (0:57)
+http://www.goodtricks.net/
 
-Lateral Thinking Practice (1:18) 
-http://www.folj.com/lateral/ 
+Lateral Thinking Practice (1:18)
+http://www.folj.com/lateral/
 
-Memory Game (2:02) 
-http://www.gamesforthebrain.com/game/whatwasthere/ 
+Memory Game (2:02)
+http://www.gamesforthebrain.com/game/whatwasthere/
 
-Interview Simulator (2:24) 
-http://myinterviewsimulator.com/My%20Interview%20Simulator-Online%20Edition/player.html 
+Interview Simulator (2:24)
+http://myinterviewsimulator.com/My%20Interview%20Simulator-Online%20Edition/player.html
 
 Transcube (3:05)
-http://code.jerev.be/ggo13-transcube/  
+http://code.jerev.be/ggo13-transcube/
 
 Pew Pew PEW (3:20)
-http://www.martin-laxenaire.fr/experiments/pewpewpew/ 
+http://www.martin-laxenaire.fr/experiments/pewpewpew/
 
-Word Whomp (3:43) 
-http://www.pogo.com/games/word-whomp?pageSection=ag_list1_pl_whomp2#game  
+Word Whomp (3:43)
+http://www.pogo.com/games/word-whomp?pageSection=ag_list1_pl_whomp2#game
 
 Radio Garden (4:00)
-http://radio.garden/live/ 
+http://radio.garden/live/
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=80) Travel by Drawing!****
 
 Nice One Dad
-http://niceonedad.com/ 
+http://niceonedad.com/
 
 Land Lines
-https://lines.chromeexperiments.com/ 
+https://lines.chromeexperiments.com/
 
 How Do Things Fly?
-http://howthingsfly.si.edu/ 
+http://howthingsfly.si.edu/
 
 Toonator
-http://toonator.com/draw/ 
+http://toonator.com/draw/
 
 Test Your Vision
-https://www.essilor.com/en/vision-tests/test-your-vision/ 
+https://www.essilor.com/en/vision-tests/test-your-vision/
 
 A Way To Go
-http://a-way-to-go.com/ 
+http://a-way-to-go.com/
 
 Filler
-http://www.physicsgames.com/action-games_filler/ 
+http://www.physicsgames.com/action-games_filler/
 
 Simon Says
 http://www.freegames.ws/games/kidsgames/simon/mysimon.htm
 
-Cube Runner 
+Cube Runner
 http://www.game5.com.de/cuberunner/index.html
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=81) Explore Your Mind!****
 
 Useless Facts
-https://uselessfacts.net/ 
+https://uselessfacts.net/
 
 Sound in Color
-https://www.hpsoundincolor.com/ 
+https://www.hpsoundincolor.com/
 
 Giorgio Cam
-https://aiexperiments.withgoogle.com/giorgio-cam/view/ 
+https://aiexperiments.withgoogle.com/giorgio-cam/view/
 
 Gaia 3D Star Map
-http://charliehoey.com/threejs-demos/gaia_dr1.html  
+http://charliehoey.com/threejs-demos/gaia_dr1.html
 
 Make Mars Home
 http://www.makemarshome.com/landing
 
 Brain Model
-http://www.finr.net/files/brain/index.htm 
+http://www.finr.net/files/brain/index.htm
 
 Airview
-https://airview.blueair.com/view/Tb9fmd_OcEi7WhAArAcXVQ 
+https://airview.blueair.com/view/Tb9fmd_OcEi7WhAArAcXVQ
 
 Where is Cat?
-http://www.kongregate.com/games/bontegames/where-is-cat 
+http://www.kongregate.com/games/bontegames/where-is-cat
 
 Ugly Sweater
-http://uglysweaters.work/ 
+http://uglysweaters.work/
 
 Verdant Labs
 http://verdantlabs.com/professions/index.html
@@ -2574,40 +2574,40 @@ Much Better Than This
 http://www.muchbetterthanthis.com/
 
 Kubikfotovr
-http://www.kubikfotovr.com/ 
+http://www.kubikfotovr.com/
 
 Grim London
-http://www.grimlondon.com/ 
+http://www.grimlondon.com/
 
 Columbia’s Interior
-http://3d.si.edu/apollo11cm/boxes/play-cm-2016-09-26/cm-interior.html 
+http://3d.si.edu/apollo11cm/boxes/play-cm-2016-09-26/cm-interior.html
 
 Prizma Space
-http://www.prizmaspace.com/#/home 
+--site no longer exists--
 
 Room Mode Calculator
-http://amroc.andymel.eu/ 
+http://amroc.andymel.eu/
 
 Virtual Drums
-http://www.virtualdrumming.com/drums/windows/hip-hop-drum-kits.html 
+http://www.virtualdrumming.com/drums/windows/hip-hop-drum-kits.html
 
 Reaction Test
-http://www.humanbenchmark.com/tests/reactiontime/ 
+http://www.humanbenchmark.com/tests/reactiontime/
 
 Skydiving Game
-http://www.plonga.com/skill/Reaction/Skydiving/ 
+http://www.plonga.com/skill/Reaction/Skydiving/
 
 Matching Prices
-http://rufushale.com/price/isright.php 
+http://rufushale.com/price/isright.php
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=83) The Largest Number on the Internet! -- DONG****
 
-Popcorn (0:19) 
-http://popopopcorn.com/ 
+Popcorn (0:19)
+http://popopopcorn.com/
 
 Googolplex (1:16)
-http://www.googolplexwrittenout.com/ 
+http://www.googolplexwrittenout.com/
 
 Pi Video (1:37)
 https://www.youtube.com/watch?v=NBKeK4_3_Hs
@@ -2619,58 +2619,58 @@ Periodic Table of Periodic Tables (2:07)
 http://www.keaggy.com/periodictable/
 
 Freezeray (2:22)
-http://freezeray.com/ 
+http://freezeray.com/
 
 Phet (2:39)
-https://phet.colorado.edu/en/simulations/category/physics 
+https://phet.colorado.edu/en/simulations/category/physics
 
 Name that Charge (2:59)
-http://www.physicsclassroom.com/Physics-Interactives/Static-Electricity/Name-That-Charge/Name-That-Charge-Interactive 
+http://www.physicsclassroom.com/Physics-Interactives/Static-Electricity/Name-That-Charge/Name-That-Charge-Interactive
 
 Gravity simulator (3:20)
-http://testtubegames.com/gravity.html 
+http://testtubegames.com/gravity.html
 
 Physics Chemistry Interactive (3:37)
-http://www.physics-chemistry-interactive-flash-animation.com/ 
+http://www.physics-chemistry-interactive-flash-animation.com/
 
 Frog Dissection (3:49)
 http://www.surgery-games.org/dissect-a-frog-2/
 
 Falstad (4:00)
-http://falstad.com/ 
+http://falstad.com/
 
 Minute Labs (4:23)
-http://minutelabs.io/ 
+http://minutelabs.io/
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=84) Become an Artist!****
 
 Insult Me (0:21)
-http://insultme.co.uk/ 
+--site no longer exists--
 
 Quick Draw (0:28)
-https://quickdraw.withgoogle.com/ 
+https://quickdraw.withgoogle.com/
 
-Draw Space (0:50) 
-https://www.drawspace.com/ 
+Draw Space (0:50)
+https://www.drawspace.com/
 
-Unplug the TV (1:24) 
-http://unplugthetv.com/ 
+Unplug the TV (1:24)
+http://unplugthetv.com/
 
 Cubes (1:48)
-http://cubes.io/ 
+http://cubes.io/
 
 Prop Store (2:37)
-https://www.safestore.co.uk/prop-store-challenge/ 
+--site no longer exists--
 
 Shword (3:02)
-http://kbhgames.com/shword/ 
+http://kbhgames.com/shword/
 
 Entanglement (3:21)
-http://entanglement.gopherwoodstudios.com/   
+http://entanglement.gopherwoodstudios.com/
 
-Cat Trap (3:45) 
-http://llerrah.com/cattrap.htm 
+Cat Trap (3:45)
+http://llerrah.com/cattrap.htm
 
 Bubole (3:59)
 http://www.bubole.pl/#/en/
@@ -2679,239 +2679,239 @@ http://www.bubole.pl/#/en/
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=85) Glitch Yourself! -- DONG****
 
 Annoying Cursor
-http://www.annoyingcursor.com/ 
+http://www.annoyingcursor.com/
 
 Forest of All the World’s Trees
-http://hollow.org.uk/ 
+http://hollow.org.uk/
 
 Word Association Net
-http://www.visuwords.com/ 
+http://www.visuwords.com/
 
 Get Mosh
-https://getmosh.io/ 
+https://getmosh.io/
 
 Cool Math
-http://www.coolmath-games.com/0-run-2 
+http://www.coolmath-games.com/0-run-2
 
 Snake Game
-http://playsnake.org/ 
+http://playsnake.org/
 
 Trippy Snake
-http://lucafraga.github.io/TrippySnake/ 
+--site no longer exists--
 
 Prisoner's Dilemma
-http://serendip.brynmawr.edu/cgi-bin/pdilemma.perl 
+http://serendip.brynmawr.edu/cgi-bin/pdilemma.perl
 
 Monsters
-https://builtvisible.com/something-under-the-bed/ 
+https://builtvisible.com/something-under-the-bed/
 
 Hex Game
-http://hex.frvr.com/ 
+http://hex.frvr.com/
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=86) How Do I Look?****
 
 Opera pigs
-http://flyingoperapigs.com/ 
+http://flyingoperapigs.com/
 
 Virtual Makeup
-http://modiface.com/makeover.php 
+http://modiface.com/makeover.php
 
 Emotion Reader
-http://www.enteractive.space/alice/ 
+--site no longer exists--
 
 Animal Orchestra
-http://www.legrandorchestredesanimaux.com/en/oceans 
+http://www.legrandorchestredesanimaux.com/en/oceans
 
 Tilt
-http://tilt.andreashackel.de/#/main 
+http://tilt.andreashackel.de/#/main
 
 G-kak
 http://g-kak.com/kyubi/
 
 Keep Out
-http://www.playkeepout.com/ 
+http://www.playkeepout.com/
 
 Swarmation
 https://swarmation.com/
 
 Stroop Effect Test
-http://www.math.unt.edu/~tam/SelfTests/StroopEffects.html 
+http://www.math.unt.edu/~tam/SelfTests/StroopEffects.html
 
 100 Most Common Words
-http://quizicon.com/quiz?id=37 
+http://quizicon.com/quiz?id=37
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=87) What's the Difference?****
 
 Rock Paper Scissors (0:06)
-http://www.rock-paper-scissors-game.com/ 
+http://www.rock-paper-scissors-game.com/
 
 Difference Between (0:17)
-http://www.differencebetween.net/  
+http://www.differencebetween.net/
 
 Retro Type Generator (0:48)
 https://photofunia.com/categories/all_effects/retro-wave
 
 Wait But Why (1:06)
-http://waitbutwhy.com/2013/08/putting-time-in-perspective.html 
+http://waitbutwhy.com/2013/08/putting-time-in-perspective.html
 
 Netflix Time Calculator (1:35)
 http://tiii.me/
 
 Virtual Dominoes (1:57)
-http://domino.roilipman.com/ 
+http://domino.roilipman.com/
 
 Send Paper Planes to People (2:13)
-https://paperplanes.world/ 
+https://paperplanes.world/
 
 World of Oil (2:39)
-http://www.gsmlondon.ac.uk/global-oil-map/#2014-importers 
+http://www.gsmlondon.ac.uk/global-oil-map/#2014-importers
 
 Comet Viewer (3:04)
 http://sci.esa.int/comet-viewer/
 
 Play With A Spirit (3:27)
-http://edankwan.com/experiments/the-spirit/ 
+http://edankwan.com/experiments/the-spirit/
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=88) Endless Michaels!****
 
 Bummer Sauce
-http://bummersauce.com/ 
+http://bummersauce.com/
 
 Jason Davies Map Projections
 https://www.jasondavies.com/maps/
 
 Breakbot Music Video
-http://breakbot.pagesjaunes.fr/
+--site no longer exists--
 
 Easy Poem
-http://www.aipoem.com/easypoem/ 
+http://www.aipoem.com/easypoem/
 
 The Measure of Things
 http://www.bluebulbprojects.com/measureofthings/
 
 Endless Photo
-http://www.photospiralysis.com/Epsilon/Epsilon.html 
+http://www.photospiralysis.com/Epsilon/Epsilon.html
 
 Space Dashboard
 http://spacedashboard.com/
 
 3D Periodic Table
-http://graphoverflow.com/graphs/3d-periodic-table.html 
+http://graphoverflow.com/graphs/3d-periodic-table.html
 
 Intelligence Test
-http://intelligence-test.net/part1/ 
+http://intelligence-test.net/part1/
 
 Rotopo
-https://rotopo.com/ 
+https://rotopo.com/
 
 National Parks Exploration
-https://artsandculture.withgoogle.com/en-us/ 
+https://artsandculture.withgoogle.com/en-us/
 
 Become Sand
-https://lab.cheron.works/webgl-gpgpu-particles/ 
+https://lab.cheron.works/webgl-gpgpu-particles/
 
-Discover Your Patronus 
-https://my.pottermore.com/patronus 
+Discover Your Patronus
+https://my.pottermore.com/patronus
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=89) Help Him Survive!****
 
 Endless Doors
-http://www.biglongnow.com/ 
+http://www.biglongnow.com/
 
 Ed Stafford
-http://www.edstafford.org/#start-experience 
+http://www.edstafford.org/#start-experience
 
-Apollo 17 
-http://apollo17.org/ 
+Apollo 17
+http://apollo17.org/
 
 Deprogrammed
-http://deprogrammed.org/ 
+http://deprogrammed.org/
 
 You Are Listening
 http://youarelistening.to
 
 Scrolling Marathon
-http://scrollingmarathon.ca/ 
+http://scrollingmarathon.ca/
 
 Virtual Bubble Wrap
-http://www.virtual-bubblewrap.com/popnow.shtml 
+http://www.virtual-bubblewrap.com/popnow.shtml
 
 Balloon Game
-http://games.sense-lang.org/EN_BalloonG.php 
+http://games.sense-lang.org/EN_BalloonG.php
 
-Groove pizza 
-https://apps.musedlab.org/groovepizza/  
+Groove pizza
+https://apps.musedlab.org/groovepizza/
 
-PaintUp  
+PaintUp
 http://technohippy.github.io/teddyjs/
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=90) Can You See This Illusion?****
 
 Pointer Pointer (0:00)
-http://www.pointerpointer.com/  
+--site no longer exists--
 
 Rage Like Cage (0:12)
-https://ragelikecage.com/ 
+--site no longer exists--
 
 Nicolas Cage Teaches the Alphabet (0:27)
-https://www.youtube.com/shared?ci=627-P6xKlCE 
+https://www.youtube.com/shared?ci=627-P6xKlCE
 
-Childhood Dreams (0:40) 
-http://radioeight.net/#dream-52  
+Childhood Dreams (0:40)
+http://radioeight.net/#dream-52
 
-Interactive Music Video (1:03) 
-https://www.carruagensdefogo.com.br/en.html 
+Interactive Music Video (1:03)
+--site no longer exists--
 
-Optical illusions (1:35) 
+Optical illusions (1:35)
 http://www.ritsumei.ac.jp/~akitaoka/index-e.html
 
-Catching circles (2:06) 
-http://circle-game.sysach.com/ 
+Catching circles (2:06)
+--site no longer exists--
 
 Endless Race (2:21)
 http://www.mobil1.com.sg/theendlessrace-game/
 
 Tromino Puzzle (2:39)
-http://www3.amherst.edu/~nstarr/trom/puzzle-8by8/ 
+http://www3.amherst.edu/~nstarr/trom/puzzle-8by8/
 
 c2w Hangman (2:54)
-http://c2w.com/hangman/104413-Picture-Puzzles 
+http://c2w.com/hangman/104413-Picture-Puzzles
 
 Spreeder (3:08)
-http://www.spreeder.com/app.php 
+http://www.spreeder.com/app.php
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=91) Can You Recognize This Face?****
 
 Great American Eclipse (0:45)
 http://www.greatamericaneclipse.com/
-http://eclipse.gsfc.nasa.gov/SEmono/TSE2017/TSE2017.html 
+http://eclipse.gsfc.nasa.gov/SEmono/TSE2017/TSE2017.html
 
 Dog Vision (1:09)
 https://dog-vision.com/tool.php
 
 Map of Stars (1:20)
-http://stars.chromeexperiments.com/ 
+http://stars.chromeexperiments.com/
 
 Touch Pianist (1:46)
 http://touchpianist.com/
 
 Facial Recognition Test (2:09)
-http://faculty.washington.edu/chudler/java/facemem2.html 
+http://faculty.washington.edu/chudler/java/facemem2.html
 
 What's Special About this Number? (2:42)
-http://www2.stetson.edu/~efriedma/numbers.html 
+http://www2.stetson.edu/~efriedma/numbers.html
 
 Science vs Magic (3:14)
 https://sciencevsmagic.net/
 
 Dosketchit (3:35)
-http://www.dosketchit.com/textify.jsp
+--site no longer exists--
 
 Map Projection (3:47)
 http://www.gis.osu.edu/misc/map-projections/
@@ -2920,7 +2920,7 @@ http://www.gis.osu.edu/misc/map-projections/
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=92) Explore a Nebula!****
 
 I Need Food
-http://ineedfood.nl 
+http://ineedfood.nl
 
 Khan Academy
 https://www.khanacademy.org/partner-content/pixar/virtual-cameras
@@ -2941,10 +2941,10 @@ Metaphone Generator
 http://metaphone.xyz
 
 Nebula Bliss
-http://www.nebulabliss.com/explore.html
+--site no longer exists--
 
 Stranger Things Type Generator
-http://makeitstranger.com/hi-hi 
+http://makeitstranger.com/hi-hi
 
 Random Illuminati Confirmed Theory Generator
 https://scratch.mit.edu/projects/117836320/
@@ -2962,7 +2962,7 @@ Zombie Anatomy
 https://human.biodigital.com/demos/zombie/
 
 Shape Connector
-https://shapeconnector.com/tutorial/step/5
+--site no longer exists--
 
 Rick Astley Remixer
 http://dinahmoelabs.com/rickastley
@@ -2977,10 +2977,10 @@ Two Centuries of U.S. Immigration
 http://metrocosm.com/us-immigration-history-map.html
 
 Cat Bounce
-http://cat-bounce.com/ 
+http://cat-bounce.com/
 
-Chord Surfer 
-http://chordsurfer.redbull.com/
+Chord Surfer
+--site no longer exists--
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=94) 15 Strange Live Webcams You Can Watch NOW!****
@@ -3029,7 +3029,7 @@ Crayon Hex Values
 http://www.w3schools.com/colors/colors_crayola.asp
 
 No Paint
-https://www.nopaint.org/
+--site no longer exists--
 
 Colorize
 http://colorize.site/
@@ -3068,7 +3068,7 @@ Google Fight
 http://www.googlefight.com/
 
 Trump Donald
-http://trumpdonald.org/
+--site no longer exists--
 
 Amazing Fact Generator
 http://www.mentalfloss.com/amazingfactgenerator
@@ -3113,7 +3113,7 @@ Star Wars in the Classroom
 http://www.starwarsintheclassroom.com/
 
 Lightsaber
-https://lightsaber.withgoogle.com/
+--site no longer exists--
 
 Star Wars Recipes
 http://www.starwars.com/news/category/recipes
@@ -3161,7 +3161,7 @@ Furthest City
 http://furthestcity.com/
 
 If It Were My Home
-http://www.ifitweremyhome.com/ 
+http://www.ifitweremyhome.com/
 
 Snowy Escape
 http://snowyescape.com/
@@ -3185,7 +3185,7 @@ Falling Fruit
 https://fallingfruit.org/
 
 Health Map
-http://www.healthmap.org/en/ 
+http://www.healthmap.org/en/
 
 Map Crunch
 http://www.mapcrunch.com/
@@ -3200,7 +3200,7 @@ Flight Radar
 https://www.flightradar24.com/
 
 Meteor Impact Sites
-http://geology.com/meteor-impact-craters.shtml 
+http://geology.com/meteor-impact-craters.shtml
 
 TIME-lapse
 http://world.time.com/timelapse/
@@ -3239,7 +3239,7 @@ Unique
 http://www.fatratgames.com/index.php?params=game/888/Unique/
 
 Cryptaris Mission
-http://www.cryptarismission.com/
+--site no longer exists--
 
 Pixel Legions
 http://www.onemorelevel.com/game/pixel_legions
@@ -3258,10 +3258,10 @@ http://www.thegamehomepage.com/play/red-remover/
 
 DONG LIST:
 Idea Deathmatch
-http://ideathmatch.com/ 
+http://ideathmatch.com/
 
 Nearby Instagram/Flickr
-https://round.io//
+--site no longer exists--
 
 Lone Comment
 http://lonecomment.com/
@@ -3312,7 +3312,7 @@ Mienfield
 http://mienfield.com/
 
 Quadradius
-http://quadradius.com/
+--site no longer exists--
 A cool kind of multiplayer checkers game.
 
 Multiplayer Puzzle
@@ -3448,7 +3448,7 @@ Write Online Color Challenge
 http://www.xrite.com/online-color-tes...
 
 Future Self
-https://futureself.orange.com/index.html
+--site no longer exists--
 
 Genecoin
 http://genecoin.me/
@@ -3507,10 +3507,10 @@ Netflix Roulette
 http://netflixroulette.net/
 
 Wiki Roulette
-http://wikiroulette.net/
+--site no longer exists--
 
 Automatic Flatterer
-http://www.cse.unsw.edu.au/~geoffo/humour/flattery.html
+--site no longer exists--
 
 What the Font
 http://www.myfonts.com/WhatTheFont/
@@ -3534,7 +3534,7 @@ Chain Reaction
 http://www.yvoschaap.com/chainrxn/
 
 Avoision
-http://homepage.ntlworld.com/rallen/zing.swf
+--site no longer exists--
 
 Cursor Chaos
 http://www.miniclip.com/games/cursor-chaos/en/
@@ -3624,7 +3624,7 @@ VocaliD
 https://www.vocalid.co/about
 
 The Street Store
-http://thestreetstore.org/
+--site no longer exists--
 
 Creative Pitch
 http://www.creativepitch.org/
@@ -3636,7 +3636,7 @@ Cell Slider
 http://www.cellslider.net/#/
 
 What 3 Words
-https://what3words.com/examples/
+--site no longer exists--examples/
 
 Seti@Home
 http://setiathome.ssl.berkeley.edu/
@@ -3670,7 +3670,7 @@ http://tylervigen.com/page?page=1
 The Sea’s Strangest Square Mile
 https://vimeo.com/59168847
 
-Casanova 
+Casanova
 http://www.ferryhalim.com/orisinal/g3/casanova.htm
 
 Muffin Films
@@ -3689,16 +3689,16 @@ Your Game Is Too Big
 http://yourgameideaistoobig.com/
 
 Moonstruck
-http://www.genvid.com/moonstruck/downloads/fonts.html
+--site no longer exists--
 
 Strip Generator
-http://stripgenerator.com/strip/create/
+--site no longer exists--
 
 Drift
 http://www.koert.com/work/drift/play.php
 
 Yes No If (submitted by Vsauce fan Serena)
-http://yesnoif.com 
+http://yesnoif.com
 
 Has The Large Hadron Collider Destroyed The World Yet?
 http://hasthelargehadroncolliderdestroyedtheworldyet.com/
@@ -3767,7 +3767,7 @@ Emoji Party
 http://emojiparty.club/
 
 Bacon Sizzling
-http://www.baconsizzling.com/
+--site no longer exists--
 
 Pixels Fighting
 http://pixelsfighting.com/
@@ -3817,7 +3817,7 @@ Bureau of Communications: Formal Apology
 http://www.bureauofcommunication.com/compose/apology
 
 Blue Rose Offline Reader
-http://bluerose13x.github.io/offline-reader/
+--site no longer exists--
 
 Gnoosic
 http://www.gnoosic.com/faves.php
@@ -3862,7 +3862,7 @@ Colorful Shepard's Tone
 http://www.fallingfalling.com/
 
 Pantone Smoothies!
-http://pantonesmoothies.com/
+--site no longer exists--
 
 NSkyC - Color of the sky in New York
 http://nskyc.com/
@@ -3913,8 +3913,8 @@ http://dendritestories.co.nz/
 Book Seer
 http://bookseer.com/
 
-Reshaping Excellence 
-http://www.sennheiser-reshapingexcellence.com/en
+Reshaping Excellence
+--site no longer exists--
 
 HTML5 Drum Kit
 http://www.randomthink.net/labs/html5drums/#00000000000000000000000000000000000000000000000000000000000000001100011010000110101010011110100110101001101010011010100110100110110001101010000100000000000000010000000000001110000000000000000001010101010101011010101010101010%7C110
@@ -3926,7 +3926,7 @@ Morning Mood
 http://data-bites.com/piano/
 
 Keep Me Out
-http://keepmeout.com/en/
+--site no longer exists--
 
 Birthday Star
 http://freeant.net/birthdaystar/
@@ -3944,7 +3944,7 @@ Balance
 http://www.mostaddicting.com/Balance.html
 
 Down Is Up
-http://www.digyourowngrave.com/down-is-up/
+--site no longer exists--
 
 Are You Good Enough To Be A Tennis Line Judge?
 http://graphics.wsj.com/are-you-good-enough-to-be-a-tennis-line-judge/
@@ -3956,7 +3956,7 @@ Cursor 10
 http://www.freewebarcade.com/game/cursor10
 
 Pointer
-http://www.wiiplayable.com/playgame.php?gameid=208
+--site no longer exists--
 
 Golf Is Hard
 http://gamejolt.com/games/golf-is-hard/52193
@@ -3971,4 +3971,4 @@ The Dodge Game
 http://www.beedigital.net/flash-games/the-dodge-game/
 
 Gateway
-http://cockroach.se/gateway/
+--site no longer exists--
