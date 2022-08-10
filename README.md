@@ -1,4 +1,4 @@
---site no longer exists--# almost all [D.O.N.G.](https://www.youtube.com/watch?v=lr7dMmkE6es&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o) links
+# almost all [D.O.N.G.](https://www.youtube.com/watch?v=lr7dMmkE6es&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o) links
 in this repo you will find *almost* all links wich where presented on the YouTube channel [D!ng](https://www.youtube.com/channel/UClq42foiSgl7sSpLupnugGA) in the [D.O.N.G. videos](https://www.youtube.com/watch?v=lr7dMmkE6es&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o) (Do Online Now Guys).
 I have tried to remove all broken links.
 
