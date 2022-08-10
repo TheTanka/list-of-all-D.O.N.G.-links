@@ -3256,7 +3256,6 @@ Red Remover
 
 ### TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=99) Play With Strangers Online!
 
-DONG LIST:
 Idea Deathmatch
 http://ideathmatch.com/
 
@@ -3321,8 +3320,6 @@ http://www.epuzzle.info/multiplayer
 
 
 ### TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=100) 11 Classic Video Games You Can Play Online!
-
-DONG LIST:
 
 Space Invaders
 http://www.gtds.net/Space-Invaders/
