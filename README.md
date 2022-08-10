@@ -1,4 +1,4 @@
-# almost all [D.O.N.G.](https://www.youtube.com/watch?v=lr7dMmkE6es&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o) links
+--site no longer exists--# almost all [D.O.N.G.](https://www.youtube.com/watch?v=lr7dMmkE6es&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o) links
 in this repo you will find *almost* all links wich where presented on the YouTube channel [D!ng](https://www.youtube.com/channel/UClq42foiSgl7sSpLupnugGA) in the [D.O.N.G. videos](https://www.youtube.com/watch?v=lr7dMmkE6es&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o) (Do Online Now Guys).
 I have tried to remove all broken links.
 
@@ -8,7 +8,7 @@ Enjoy
 ****TITLE: [->](https://www.youtube.com/watch?v=lr7dMmkE6es&list=PLL0602iqqyiy6_ude) What Does One Trillion Dollars Look Like?****
 
 Free Flashlight (0:19)
-https://www.freeonlineflashlight.com
+--site no longer exists--
 
 $Trillions (0:30)
 https://informationisbeautiful.net/visualizations/trillions-what-is-a-trillion-dollars/
@@ -77,7 +77,7 @@ Inner Animals
 http://media.hhmi.org/biointeractive/click/explore-your-inner-animals/?_ga=2.177473253.1301542994.1518480581-699706204.1518480581
 
 Evolution Fingers
-http://www.sussexvt.k12.de.us/science/evolution/evidence%20for%20evolution.htm
+https://web.archive.org/web/20201112023808/http://www.sussexvt.k12.de.us/science/evolution/evidence%20for%20evolution.htm
 
 Dog Breed Charts
 https://fineartamerica.com/featured/skulls-of-various-dog-breeds-alex-surcica.html
@@ -126,7 +126,7 @@ Budum tsss
 https://drumsound.net
 
 Pun Jokes
-http://pun.me/pages/dad-jokes.php
+--site no longer exists--
 
 Draw Logo From Memory
 https://neal.fun/logos-from-memory/
@@ -195,7 +195,7 @@ https://www.livescience.com/20563-ancient-bone-flute.html
 https://www.youtube.com/watch?v=mB9hTAj62u8
 
 Musical Squares
-http://www.misterx.ca/Musical_Squares.html
+--site no longer exists--
 
 Vokoder
 https://www.youtube.com/watch?v=u50_Ei0HJm4
@@ -251,7 +251,7 @@ https://www.moregameslike.com/garbage-truck-simulator/
 ****TITLE: [->](https://www.youtube.com/watch?v=SmE6ShKZmHA&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=9) This Is Rabies****
 
 Want To Wait (0:10)
-http://www.wanttowait.com/
+--site no longer exists--
 
 Virus Explorer (0:23)
 https://www.hhmi.org/biointeractive/virus-explorer
@@ -278,7 +278,7 @@ How Many of Me (0:35)
 http://ww2.howmanyofme.com/search/
 
 Move Mirror (1:28)
-https://experiments.withgoogle.com/collection/ai/move-mirror/view/mirror
+--site no longer exists--
 
 Emoji Scavenger Hunt (1:55)
 https://emojiscavengerhunt.withgoogle.com/
@@ -299,7 +299,7 @@ Thank You Generator (4:35)
 ****TITLE: [->](https://www.youtube.com/watch?v=ZqqMPaZ9mLw&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=11) These Islands Don't Exist****
 
 Shybutton (0:16)
-http://shybutton.tk
+--site no longer exists--
 
 Phantom Islands (0:31)
 http://andrewpekler.com/phantom-islands/
@@ -356,7 +356,7 @@ Understanding aperture
 https://photographylife.com/what-is-aperture-in-photography
 
 Animal Eyes
-http://iteota.com/experience/the-food-chain-continues/frog
+--site no longer exists--
 
 Focal Length
 https://www.shutterbug.com/content/check-out-cool-gif-showing-how-lens-focal-length-changes-peoples-faces
@@ -401,9 +401,9 @@ http://funtranslations.com/klingon
 
 https://www.infoplease.com/arts-entertainment/writing-and-language/most-widely-spoken-languages-world
 
-http://www.tehachapinews.com/lifestyle/pen-in-hand-storytelling-with-luther-girado-the-last-male/article_90597af6-5164-11e8-b059-ab82ed06b77a.html
+--site no longer exists--
 
-https://linguistlist.org/ask-ling/accent.cfm
+--site no longer exists--
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=vGI68-7OP9A&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=14) SCALE****
@@ -424,7 +424,7 @@ Dinosaur Size Comparison (2:47)
 https://www.businessinsider.com/dinosaur-size-comparison-chart-2015-6
 
 Blue Whale (3:33)
-http://www.wdcs.co.uk/media/flash/whalebanner/content_pub_en.html
+--site no longer exists--
 
 The true size of (4:29)
 https://thetruesize.com/
@@ -457,7 +457,7 @@ http://www.easystereogrambuilder.com/3d-stereogram-maker.aspx
 http://www.inthe90s.com/generated/terms.shtml
 
 First Web Page (1:09)
-http://line-mode.cern.ch/www/hypertext/WWW/TheProject.html
+--site no longer exists--
 
 Dial-up Internet (1:31)
 http://56k-emulator.co.uk
@@ -466,7 +466,7 @@ Web Crawler (2:14)
 https://www.webcrawler.com
 
 Geocity Simulator (2:20)
-http://www.wonder-tonic.com/geocitiesizer/
+--site no longer exists--
 
 Wayback Machine (2:36)
 https://web.archive.org
@@ -478,7 +478,7 @@ Dr. Fun (3:51)
 --site no longer exists--
 
 Space Jam (4:06)
-https://www.warnerbros.com/archive/spacejam/movie/jam.html
+--site no longer exists--
 
 Zorotl (4:30)
 http://zorotl.com/
@@ -493,7 +493,7 @@ How Secure is My Password (0:54)
 https://howsecureismypassword.net/
 
 Hash Generator (2:20)
-https://passwordsgenerator.net/sha1-hash-generator/
+--site no longer exists--
 
 Computerphile (2:31)
 https://www.youtube.com/watch?v=DMtFhACPnTY&t=381s
@@ -531,7 +531,7 @@ https://www.youtube.com/watch?v=AX4hWfyHr5g (2:10)
 https://www.youtube.com/watch?v=a54H2V06dqw&t=204s (2:17)
 
 Forces in Skydiving (2:47)
-http://www.waowen.screaming.net/revision/force&motion/skydiver.htm
+--site no longer exists--
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=45R7XQ8q-8c&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=19) RUN****
@@ -738,7 +738,7 @@ https://archive.org/details/msdos_Beneath_Apple_Manor_1978
 ****TITLE: [->](https://www.youtube.com/watch?v=qFUd6p_9Rdg&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=25) Disaster Simulators****
 
 Disaster Preparer (0:25)
-http://disasterpreparer.com/websites/
+--site no longer exists--
 
 Disease Lab (0:40)
 --site no longer exists--
@@ -804,7 +804,7 @@ Fold Paper (1:21)
 http://neal.fun/paper/
 
 Hello Monster Truck (1:38)
-http://helloenjoy.com/projects/monstertruck/
+--site no longer exists--
 
 Lamest Edit Wars (2:11)
 https://informationisbeautiful.net/visualizations/wikipedia-lamest-edit-wars/
@@ -852,7 +852,7 @@ Random Dog (3:08)
 https://random.dog/
 
 Loop A Song (3:19)
-http://loopasong.com/
+--site no longer exists--
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=RyRKKkls3I8&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=29) Can You Draw A Perfect Circle?****
@@ -906,7 +906,7 @@ Funky Road Trip (1:54)
 --site no longer exists--
 
 Next Friday the 13 (2:19)
-http://nextfriday13.com
+--site no longer exists--
 
 VoxSculpt (2:34)
 https://joshshadik.github.io/voxsculpt/src/
@@ -1147,7 +1147,7 @@ Pull The Fire Alarm (4:09)
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=40) Has This Man Entered Your Dreams?****
 
 One Motion (0:15)
-http://www.onemotion.com/flash/spider/
+--site no longer exists--
 
 This Man (0:28)
 --site no longer exists--
@@ -1176,7 +1176,7 @@ Island of Dolls (3:57)
 https://www.google.com/maps/@19.2727969,-99.0879907,2a,18.6y,302.29h,89.49t/data=!3m6!1e1!3m4!1sAJnSjTssk_eWazP3hYqSNw!2e0!7i13312!8i6656
 
 Pumpkin Gutter (4:11)
-http://pumpkingutter.com/pumpkinblog/
+--site no longer exists--
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=41) The Internet Has A Cat.****
@@ -1237,7 +1237,7 @@ What’s That Bulb (6:08)
 http://www.whatsthatbulb.com/
 
 Wide-angle NavCam 1 (7:21)
-https://i.imgur.com/gq7MvVn.png
+--site no longer exists--
 
 Migrant Mother (7:54)
 https://upload.wikimedia.org/wikipedia/commons/5/54/Lange-MigrantMother02.jpg
@@ -1262,7 +1262,7 @@ Histography (0:41)
 https://histography.io/
 
 Country Quiz (1:09)
-https://countryquiz.net/
+--site no longer exists--
 
 Song Exploder (1:38)
 https://experiments.withgoogle.com/webvr/inside-music/view/
@@ -1304,7 +1304,7 @@ Noni (1:34)
 https://noni.cmiscm.com/
 
 Multiplayer Piano (1:57)
-http://www.multiplayerpiano.com/http://www.multiplayerpiano.com/
+--site no longer exists--
 
 Digital Guitar (2:15)
 http://www.apronus.com/music/onlineguitar.htm
@@ -1361,7 +1361,7 @@ Evolution of Trust (1:02)
 http://ncase.me/trust/
 
 Antipodr (1:27)
-http://www.antipodr.com/
+--site no longer exists--
 
 Pixel Thoughts (1:41)
 http://www.pixelthoughts.co/
@@ -1379,7 +1379,7 @@ All the Minutes (2:47)
 http://alltheminutes.com/
 
 3D Face (3:11)
-http://www.cs.nott.ac.uk/~psxasj/3dme/
+--site no longer exists--
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=47) The Eyezen Challenge -- DONG****
@@ -1448,7 +1448,7 @@ http://triviabliss.com/
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=49) There's a New Most-Unpopular Emoji****
 
 Is it Monday? (0:05)
-http://isitmondaynow.com
+--site no longer exists--
 
 Clap.space (0:18)
 http://clap.space/
@@ -1472,7 +1472,7 @@ Cucumber Spin (1:55)
 http://gurka.se
 
 Two Foods (2:12)
-http://www.twofoods.com
+--site no longer exists--
 
 Where is the Red (2:27)
 http://butchersworkshop.com/witr
@@ -1499,7 +1499,7 @@ Duration Between Dates (1:31)
 https://www.timeanddate.com/date/duration.html
 
 Here is Today (1:57)
-http://hereistoday.com/
+--site no longer exists--
 
 Coloblock (2:27)
 http://coloblocks.nebulabytes.com/
@@ -1583,7 +1583,7 @@ Jello Time (0:09)
 http://www.jellotime.com/
 
 Twins or Not (0:34)
-https://www.twinsornot.net/
+--site no longer exists--
 
 No Time Zone (1:09)
 https://notime.zone/
@@ -1616,7 +1616,7 @@ http://www.trex-game.skipser.com/
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=54) Weirdest Website Domains! -- DONG****
 
 Walking Tomato Potato (0:07)
-http://www.walkingtomatopotato.tk/
+--site no longer exists--
 
 Billy Chasen Clock (0:20)
 http://billychasen.com/clock/
@@ -1649,7 +1649,7 @@ https://musiclab.chromeexperiments.com/Kandinsky
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=55) Who Old Are You? -- DONG****
 
 Nooo.com (0:03)
-http://www.nooooooooooooooo.com/
+--site no longer exists--
 
 Who Old Are You (0:24)
 http://www.informationisbeautiful.net/visualizations/who-old-are-you/
@@ -1727,7 +1727,7 @@ Population Explorer (0:21)
 https://populationexplorer.com/
 
 Phases (0:58)
-http://my.asciiart.club/play/water.html
+http://asciiart.club/play/water.html
 
 Neon Flames (1:16)
 https://29a.ch/sandbox/2011/neonflames/#
@@ -1769,7 +1769,7 @@ Vortex Shedding (1:30)
 http://git.amandaghassaei.com/VortexShedding/
 
 Physics Simulation (1:48)
-http://tewan.diem.cl/webspace/canvasexperiment/
+--site no longer exists--
 
 Bird Sounds (2:05)
 https://aiexperiments.withgoogle.com/bird-sounds/view/
@@ -1868,7 +1868,7 @@ Voice Spinner (1:56)
 https://musiclab.chromeexperiments.com/Voice-Spinner
 
 Auto Canonizer (2:25)
-http://static.echonest.com/autocanonizer/go.html?trid=TRQEJOQ13B0F8E07E5
+--site no longer exists--
 
 Write Light (2:50)
 http://writelight.guru/
@@ -2006,7 +2006,7 @@ Auto Draw (1:32)
 https://www.autodraw.com/
 
 Ava Sessions (2:00)
-https://ava-sessions.com/
+--site no longer exists--
 
 Ambicular (2:29)
 http://www.ambicular.com
@@ -2036,7 +2036,7 @@ Flag Waver (0:25)
 https://krikienoid.github.io/flagwaver/
 
 Geo Targit (0:47)
-http://us.geotargit.com/
+--site no longer exists--
 
 Mercator Extreme (1:19)
 https://mrgris.com/projects/merc-extreme/#0b6b7dd3@-17.65092,-149.42604
@@ -2048,7 +2048,7 @@ Spectrum Analyzer (2:39)
 https://academo.org/demos/spectrum-analyzer/
 
 Pick (3:09)
-https://smt.codes/stuff/pickr/
+--site no longer exists--
 
 Fluid Paint (3:26)
 http://david.li/paint/
@@ -2105,11 +2105,11 @@ Time Flies (1:38)
 https://www.maximiliankiener.com/digitalprojects/time/
 
 Airplane and Watch AR Viewer (2:15) (2:37)
-http://demo.joaopescada.com/airplane-ar-viewer/
-http://demo.joaopescada.com/timex-ar-watch/
+--site no longer exists--
+--site no longer exists--
 
 Vision Run (2:41)
-http://jeu-essilor.studio.pprod.aeaws.com
+--site no longer exists--
 
 Digital Trip (2:59)
 https://htdt.github.io/digital_trip/
@@ -2121,7 +2121,7 @@ How Astronauts are Affected  (3:43)
 --site no longer exists--
 
 NYC Trees (4:05)
-http://www.cloudred.com/labprojects/nyctrees/#about
+--site no longer exists--
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=69) 100 Year Secret!****
@@ -2172,7 +2172,7 @@ Making of Me and You
 http://www.bbc.com/earth/story/the-making-of-me-and-you#/results/top
 
 Le Voyage de Tom
-https://levoyagedetom.up.coop
+--site no longer exists--
 
 Crystal Galaxy
 http://www.effectgames.com/effect/games/crystalgalaxy/
@@ -2241,7 +2241,7 @@ Dolly Zoom (1:34)
 http://dollyzoom.herokuapp.com/
 
 Short Books (2:22)
-http://www.shortbooks.co/index.php
+--site no longer exists--
 
 Statistics of Rolling Dice (2:38)
 https://academo.org/demos/dice-roll-statistics/
@@ -2276,11 +2276,11 @@ Whalesynth (1:32)
 Everyone on One Page (1:59)
 http://www.7billionworld.com/
 
-~~Draw a Square (2:23)
+Draw a Square (2:23)
 --site no longer exists--
 
 Jumping Cubes (2:38)
-http://animuchan.net/moz_game/
+--site no longer exists--
 
 Squishy Earth (2:53)
 http://www.byronknoll.com/earth.html
@@ -2349,7 +2349,7 @@ Alphabet Shoot (2:35)
 http://www.sillyjelly.com/alphabetshoot/
 
 Stack Tower (2:50)
-http://www.agame.com/game/stack-tower-classic
+--site no longer exists--
 
 Finding Love Interactive (3:06)
 https://findinglove.activetheory.net/
@@ -2412,10 +2412,10 @@ Almost Calm (0:55)
 http://www.almostcalm.com/
 
 Mystery Search (1:01)
-https://mysterysear.ch
+--site no longer exists--
 
 Ice Lolly (1:12)
-https://www.icelolly.com/wheres-lolly/
+--site no longer exists--
 
 Up to Tab (1:38)
 --site no longer exists--
@@ -2478,7 +2478,7 @@ Taco spin (0:13)
 http://www.tacospin.com/
 
 Stranger Things (0:35)
-https://spaces.archilogic.com/model/archilogic/wlvpref1?modelResourceId=49efd011-bda6-4622-81c3-59a1af35987b&logo=false&main-menu=none&mode=edit&view-menu=none
+--site no longer exists--
 
 Cool Magic Tricks (0:57)
 http://www.goodtricks.net/
@@ -2553,16 +2553,16 @@ Make Mars Home
 http://www.makemarshome.com/landing
 
 Brain Model
-http://www.finr.net/files/brain/index.htm
+--site no longer exists--
 
 Airview
-https://airview.blueair.com/view/Tb9fmd_OcEi7WhAArAcXVQ
+--site no longer exists--
 
 Where is Cat?
 http://www.kongregate.com/games/bontegames/where-is-cat
 
 Ugly Sweater
-http://uglysweaters.work/
+--site no longer exists--
 
 Verdant Labs
 http://verdantlabs.com/professions/index.html
@@ -2577,10 +2577,10 @@ Kubikfotovr
 http://www.kubikfotovr.com/
 
 Grim London
-http://www.grimlondon.com/
+--site no longer exists--
 
 Columbia’s Interior
-http://3d.si.edu/apollo11cm/boxes/play-cm-2016-09-26/cm-interior.html
+--site no longer exists--
 
 Prizma Space
 --site no longer exists--
@@ -2595,7 +2595,7 @@ Reaction Test
 http://www.humanbenchmark.com/tests/reactiontime/
 
 Skydiving Game
-http://www.plonga.com/skill/Reaction/Skydiving/
+--site no longer exists--
 
 Matching Prices
 http://rufushale.com/price/isright.php
@@ -2700,7 +2700,7 @@ Trippy Snake
 --site no longer exists--
 
 Prisoner's Dilemma
-http://serendip.brynmawr.edu/cgi-bin/pdilemma.perl
+--site no longer exists--
 
 Monsters
 https://builtvisible.com/something-under-the-bed/
@@ -2715,7 +2715,7 @@ Opera pigs
 http://flyingoperapigs.com/
 
 Virtual Makeup
-http://modiface.com/makeover.php
+--site no longer exists--
 
 Emotion Reader
 --site no longer exists--
@@ -2739,7 +2739,7 @@ Stroop Effect Test
 http://www.math.unt.edu/~tam/SelfTests/StroopEffects.html
 
 100 Most Common Words
-http://quizicon.com/quiz?id=37
+--site no longer exists--
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=87) What's the Difference?****
@@ -2787,7 +2787,7 @@ Breakbot Music Video
 --site no longer exists--
 
 Easy Poem
-http://www.aipoem.com/easypoem/
+--site no longer exists--
 
 The Measure of Things
 http://www.bluebulbprojects.com/measureofthings/
@@ -2829,7 +2829,7 @@ Apollo 17
 http://apollo17.org/
 
 Deprogrammed
-http://deprogrammed.org/
+--site no longer exists--
 
 You Are Listening
 http://youarelistening.to
@@ -2880,7 +2880,7 @@ Tromino Puzzle (2:39)
 http://www3.amherst.edu/~nstarr/trom/puzzle-8by8/
 
 c2w Hangman (2:54)
-http://c2w.com/hangman/104413-Picture-Puzzles
+--site no longer exists--
 
 Spreeder (3:08)
 http://www.spreeder.com/app.php
@@ -2893,7 +2893,7 @@ http://www.greatamericaneclipse.com/
 http://eclipse.gsfc.nasa.gov/SEmono/TSE2017/TSE2017.html
 
 Dog Vision (1:09)
-https://dog-vision.com/tool.php
+--site no longer exists--
 
 Map of Stars (1:20)
 http://stars.chromeexperiments.com/
@@ -2905,7 +2905,7 @@ Facial Recognition Test (2:09)
 http://faculty.washington.edu/chudler/java/facemem2.html
 
 What's Special About this Number? (2:42)
-http://www2.stetson.edu/~efriedma/numbers.html
+--site no longer exists--
 
 Science vs Magic (3:14)
 https://sciencevsmagic.net/
@@ -2914,31 +2914,31 @@ Dosketchit (3:35)
 --site no longer exists--
 
 Map Projection (3:47)
-http://www.gis.osu.edu/misc/map-projections/
+--site no longer exists--
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=92) Explore a Nebula!****
 
 I Need Food
-http://ineedfood.nl
+--site no longer exists--
 
 Khan Academy
 https://www.khanacademy.org/partner-content/pixar/virtual-cameras
 
 Psychedelic Pictures
-http://www.pbvsgr.com
+--site no longer exists--
 
 Scribble Audio
 http://scribble.audio/
 
-~~Jigsaw Planet
+Jigsaw Planet
 http://www.jigsawplanet.com
 
 Mockup Editor
 https://mockupeditor.com/
 
 Metaphone Generator
-http://metaphone.xyz
+--site no longer exists--
 
 Nebula Bliss
 --site no longer exists--
@@ -3032,7 +3032,7 @@ No Paint
 --site no longer exists--
 
 Colorize
-http://colorize.site/
+--site no longer exists--
 
 Corgi Party
 http://corgiorgy.com/
@@ -3056,7 +3056,7 @@ Fried Chicken Simulator
 http://friedchickensimulator.surge.sh/
 
 Flarhgunnstow
-http://flarhgunnstow.com/
+--site no longer exists--
 
 Tip of My Tongue
 http://chir.ag/projects/tip-of-my-tongue/
@@ -3080,7 +3080,7 @@ Useful Science
 http://www.usefulscience.org/
 
 Wonder Tonic
-http://www.wonder-tonic.com/geocitiesizer/
+--site no longer exists--
 
 Museum of Conceptual Art
 http://www.museumofconceptualart.com/accomplished/
@@ -3107,7 +3107,7 @@ If Star Wars Was Real
 http://www.ifstarwarswasreal.com/
 
 Noooooooooooooo
-http://nooooooooooooooo.com/
+--site no longer exists--
 
 Star Wars in the Classroom
 http://www.starwarsintheclassroom.com/
@@ -3143,7 +3143,7 @@ http://lingojam.com/JarJarBinks
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=97) Climb Everest From Home!****
 
 You Visit
-http://www.youvisit.com/
+--site no longer exists--
 
 12 Hrs
 http://www.12hrs.net/
@@ -3170,7 +3170,7 @@ Scaling Everest (previous DONG)
 https://www.washingtonpost.com/graphics/world/scaling-everest/
 
 Everest Avalanche Tragedy
-http://everestavalanchetragedy.com/mt-everest-journey.html
+--site no longer exists--
 
 360 Cities
 https://www.360cities.net/map
@@ -3221,7 +3221,7 @@ Sprinter
 http://www.gamedesign.jp/flash/sprinter/sprinter.html
 
 Gold Miner
-http://www.123games.dk/game/other/goldminer/goldminer_eng.htm
+--site no longer exists--
 
 Hungry Blocks
 http://flashgamesbase.com/flashgame/Skill/201007/Hungry_Blocks_1332.html
@@ -3230,7 +3230,7 @@ Flabby Physics
 http://flabbyphysics.com/flabbyphysics.swf
 
 Fat Slice
-http://www.englishpubpool.co.uk/games/o/fat-slice
+--site no longer exists--
 
 People Bucket
 http://www.pplbucket.com/
@@ -3245,13 +3245,13 @@ Pixel Legions
 http://www.onemorelevel.com/game/pixel_legions
 
 Ball Game
-http://www.vivalagames.com/play/ballgame
+--site no longer exists--
 
 Paper Venture
 http://www.newgrounds.com/portal/view/553931
 
 Red Remover
-http://www.thegamehomepage.com/play/red-remover/
+--site no longer exists--
 
 
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=99) Play With Strangers Online!****
@@ -3331,7 +3331,7 @@ Oregon Trail
 https://archive.org/details/msdos_Oregon_Trail_The_1990
 
 Atari
-https://www.atari.com/arcade
+--site no longer exists--
 
 Snake? SNAKEEEEE!
 http://playsnake.org/
@@ -3346,10 +3346,10 @@ Minesweeper
 http://minesweeperonline.com/
 
 Super Mario Crossover
-http://marioflash.org/
+--site no longer exists--
 
 Super Mario Crossover UPDATED
-http://explodingrabbit.com/resources/super-mario-bros-crossover.84/
+--site no longer exists--
 
 Street Fighter II: Champion Edition
 http://www.kongregate.com/games/gametap/street-fighter-2-ce
@@ -3445,7 +3445,7 @@ Have I Been Pwned
 https://haveibeenpwned.com/
 
 Write Online Color Challenge
-http://www.xrite.com/online-color-tes...
+--site no longer exists--
 
 Future Self
 --site no longer exists--
@@ -3480,7 +3480,7 @@ Random Color
 http://randomcolour.com/
 
 Your Name in Gum
-http://www.yournameingum.com/
+--site no longer exists--
 
 Agar.io
 http://agar.io/
@@ -3492,13 +3492,13 @@ Museum of Natural History
 http://www.mnh.si.edu/vtp/1-desktop/
 
 The Monterey Bay Aquarium
-http://www.montereybayaquarium.org/animals-and-experiences/live-web-cams/open-sea-cam/
+--site no longer exists--
 
 The Secret Door
 http://www.safestyle-windows.co.uk/secret-door/
 
 Txtwar
-http://www.txtwar.com/index.php
+--site no longer exists--
 
 Favorite Pokémon
 https://fio4ri.github.io/FavoritePokemon/
@@ -3537,7 +3537,7 @@ Avoision
 --site no longer exists--
 
 Cursor Chaos
-http://www.miniclip.com/games/cursor-chaos/en/
+--site no longer exists--
 
 Zyl
 http://gamefalcon.com/game.php?id=165
@@ -3558,10 +3558,10 @@ Curvy
 http://www.flaminglunchbox.net/curvy
 
 Waterfalls 3
-http://armorgames.com/play/12537/waterfalls-3
+--site no longer exists--
 
 Five Minutes
-http://www.fiveminutes.gs/
+--site no longer exists--
 
 Uncanny Valley
 https://www.youtube.com/watch?v=UXX0TRtg5Vk
@@ -3749,7 +3749,7 @@ https://www.youtube.com/watch?v=wECZUuSgysk&list=PL89B2480EEEFE2C99
 ****TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=110) 19 Simple & Brilliant Websites -- DONG****
 
 Blue.com
-http://blue.com/
+--site no longer exists--
 
 Taghua!
 http://www.taghua.com/
@@ -3776,7 +3776,7 @@ Table Flipper
 http://tableflipper.com/
 
 Smokey Cat
-http://i.imgur.com/nJnD26r.gif
+--site no longer exists--
 
 Is It White?
 http://isitwhite.com/
@@ -3968,7 +3968,7 @@ Impasse
 http://bartbonte.com/portal/impasse.html
 
 The Dodge Game
-http://www.beedigital.net/flash-games/the-dodge-game/
+--site no longer exists--
 
 Gateway
 --site no longer exists--
