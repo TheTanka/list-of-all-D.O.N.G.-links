@@ -1049,7 +1049,60 @@ http://www.adultswim.com/etcetera/elastic-man/
 
 ### TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=35) BUZZ KILL
 
+Heeeeeeey (0:00)
+http://heeeeeeeey.com
+
+Internet of Things (0:46)
+http://www.informationisbeautiful.net...
+
+Let’s Robot (1:06)
+https://letsrobot.tv
+
+Colors in Culture (1:33)
+http://infobeautiful4.s3.amazonaws.co...
+
+Buzzkill (1:55)
+https://www.newgrounds.com/portal/vie...
+
+Music Map.com (2:30)
+http://www.music-map.com
+
+Music Map.com Info (2:50)
+https://musicmap.info/ 
+
+Darwin Tunes (3:20)
+http://game.darwintunes.org/play/
+
+Swingy (3:42)
+http://www.musinformatics.com/swingify
+
+
 ### TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=36) Colorful Fluids!
+
+Is It Dark Outside (0:18)
+https://www.isitdarkoutside.com
+
+Blackout Sketch (0:31)
+http://blackout-sketch.com/ 
+
+Rain Drop (0:46)
+http://www.thesheepsmeow.com/html5/ra... 
+
+Emoji Advetnure (1:18)
+http://emojiadventure.blogspot.com/p/...
+
+Two Snakes (1:30)
+http://serpents.herokuapp.com/ 
+
+Colorful Fluid (1:59)
+https://experiments.withgoogle.com/ch... 
+
+Linify (2:13)
+http://linify.me 
+
+How Many Days Till (2:40)
+https://howmanydaystill.com/ 
+
 
 ### TITLE: [->](https://www.youtube.com/watch?v=UBHCWr0p5TI&list=PLL0602iqqyiy6_ude-mFEJ7DRqqf0p-9o&index=37) Stranger Facial Hair
 
