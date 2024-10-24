@@ -2273,7 +2273,7 @@ MeteoEarth (2:57)
 http://www.meteoearth.com/
 
 Mr. Red (3:20)
-http://getred2.herokuapp.com/
+[--site no longer exists--](http://getred2.herokuapp.com/)
 
 Virtual Beard (3:39)
 --site no longer exists--
